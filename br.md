@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Brasil Show
+title: Brasil Show 2
 permalink: /br/
 ---
 
