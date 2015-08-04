@@ -1,32 +1,16 @@
----
+----
 Theme Name: Easy Taxi (internet.org)
 Base url: "/internet.org"
 Url: http://easytaxi.github.io/
 Author: Easy Taxi developers
----
-
-Assets
 ------
-If you wan't your dev enviroment as pretty as live you will have to run the following apps:
-* npm install
-* bower install
-* grunt
 
-HTML to Jade
+TEAM
 ------
-If you wan't convert HTML into Jade format you will have to run the following steps:
-* npm install -g html2jade
-* html2jade views/multiplus/html/*.html --outdir views/multiplus/
-
-
-# humanstxt.org/
-# The humans responsible & technology colophon
-
-# TEAM
 
     From easytaxi (http://easytaxi.com):
 
-        Design and UX: 
+        Design and UX:
         Twitter: @
         behance: https://www.behance.net/
         Linkedin: http://br.linkedin.com/pub/
@@ -44,7 +28,8 @@ If you wan't convert HTML into Jade format you will have to run the following st
         Linkedin: http://www.linkedin.com/pub/
         From: São Paulo, Brazil
 
-# THANKS
+THANKS
+------
 
     Developer Relations at W3C: Yaso Cordova
     Twitter: @yaso
@@ -63,10 +48,11 @@ If you wan't convert HTML into Jade format you will have to run the following st
     From : São Paulo, Brazil
 
 
-# TECHNOLOGY COLOPHON
+TECHNOLOGY COLOPHON
+------
 
     Standards:
-        HTML5, CSS3, Schema
+        HTML, CSS
 
     Components:
         Github - https://github.com/
