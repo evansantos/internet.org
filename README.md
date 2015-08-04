@@ -1,5 +1,6 @@
 ----
 Theme Name: Easy Taxi (internet.org)
+Description: 
 Base url: "/internet.org"
 Url: http://easytaxi.github.io/
 Author: Easy Taxi developers
@@ -40,7 +41,7 @@ TECHNOLOGY COLOPHON
         Github - https://github.com/
         Normalize.css - http://necolas.github.io/normalize.css/
         HTML5 boilerplate - http://html5boilerplate.com/
-        GruntJS - http://gruntjs.com/
+        GruntJS - http://gruntjs.com/ [Dependencies: shell, watch, github-pages]
         FastClick - https://github.com/ftlabs/fastclick/
         Scroll Up Bar - https://github.com/eduardomb/scroll-up-bar/
 
