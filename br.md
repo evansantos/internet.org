@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Brasil
+title: Brasil Show
 permalink: /br/
 ---
 
