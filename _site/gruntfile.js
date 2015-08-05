@@ -25,6 +25,8 @@ module.exports = function (grunt) {
     conf['url']     = '';
     YAML            = require('yamljs');
     grunt.file.write('config.yml', YAML.stringify(conf));
+    conf            = grunt.file.readYAML('_config.yml');
+    console.log(conf);
   });
 
   grunt.registerTask('prod', function() {
@@ -33,5 +35,7 @@ module.exports = function (grunt) {
     conf['url']     = 'http://gpechim.github.io';
     YAML            = require('yamljs');
     grunt.file.write('config.yml', YAML.stringify(conf));
+    conf            = grunt.file.readYAML('_config.yml');
+    console.log(conf);
   });
 };
