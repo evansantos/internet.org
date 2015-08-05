@@ -4,10 +4,10 @@
     <title>Home</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 Aug 2015 18:03:12 -0300</pubDate>
-    <lastBuildDate>Wed, 05 Aug 2015 18:03:12 -0300</lastBuildDate>
+    <link>http://gpechim.github.io/internet.org/</link>
+    <atom:link href="http://gpechim.github.io/internet.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 05 Aug 2015 18:08:40 -0300</pubDate>
+    <lastBuildDate>Wed, 05 Aug 2015 18:08:40 -0300</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Mon, 03 Aug 2015 13:54:45 -0300</pubDate>
-        <link>/welcome-to-porra-toda/</link>
-        <guid isPermaLink="true">/welcome-to-porra-toda/</guid>
+        <link>http://gpechim.github.io/internet.org/welcome-to-porra-toda/</link>
+        <guid isPermaLink="true">http://gpechim.github.io/internet.org/welcome-to-porra-toda/</guid>
         
         
         <category>jekyll</category>
@@ -56,8 +56,8 @@
 
 </description>
         <pubDate>Mon, 03 Aug 2015 13:54:45 -0300</pubDate>
-        <link>/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">/welcome-to-jekyll/</guid>
+        <link>http://gpechim.github.io/internet.org/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://gpechim.github.io/internet.org/welcome-to-jekyll/</guid>
         
         
         <category>jekyll</category>
