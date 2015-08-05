@@ -1,0 +1,14 @@
+---
+layout: page
+title: Brasil
+permalink: /br/
+tag: [language]
+---
+
+<div class="">
+{% for page in site.pages %}
+  {% if page.tag contains 'citybr' %}
+  <a class="page-link" href="{{ page.url }}">{{ page.title }}</a>
+  {% endif %}
+{% endfor %}
+</div>

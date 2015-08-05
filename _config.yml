@@ -1,5 +1,5 @@
 # Site settings
-title: Easy Taxi (internet.org)
+title: Home
 email: 
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -9,6 +9,12 @@ baseurl: ""
 url: ""
 twitter_username: jekyllrb
 github_username:  jekyll
+
+
+include: ["_pages"]
+permalink: /:title/
+# tag: [pagelist]
+# categories: [pagelist]
 
 # Build settings
 markdown: kramdown
