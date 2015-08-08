@@ -29,15 +29,6 @@ tag: [citybr]
 
 <div class="home">
 
-      <div class="trigger">
-          <a class="page-link" href="{{ site.baseurl }}/">{{ site.title }}</a>
-        {% for page in site.pages %}
-          {% if page.tag contains 'menu' %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          {% endif %}
-        {% endfor %}
-      </div>
-
 <h3>{{ page.title }}</h3>
 
   <ul class="post-list">

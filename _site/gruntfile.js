@@ -28,6 +28,7 @@ module.exports = function (grunt) {
   });
 
   grunt.registerTask('prod', function() {
+    // setTimeout(this.async(), 9900);
     var conf = grunt.file.readYAML('_config.yml');
     conf.baseurl= '/internet.org';
     conf.url = 'http://gpechim.github.io';

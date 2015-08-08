@@ -1,24 +1,27 @@
 ---
 layout: page
-title: Transporte Alternativo
-permalink: /br/sao-paulo/transporte-alternativo/
+title: Lazer
+permalink: /br/sao-paulo/lazer/
 tag: [citybrsp]
+category: São Paulo
 image: http://placehold.it/300x300
 ---
 
 <div class="home">
 
-  <h1 class="page-heading">{{ page.title }}</h1>
+  <h1 class="page-heading">{{ page.category }} / {{ page.title }}</h1>
+  <hr><br>
 
   <ul class="post-list">
     {% for post in site.posts %}
+      {% if post.categories contains 'lazer' %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
         <h2>
           <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
         </h2>
       </li>
+      {% endif %}
     {% endfor %}
   </ul>
 </div>

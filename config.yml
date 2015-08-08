@@ -7,5 +7,5 @@ twitter_username: jekyllrb
 github_username: jekyll
 include:
     - _pages
-permalink: '/:title/'
+permalink: /:title/
 markdown: kramdown

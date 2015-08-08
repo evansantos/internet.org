@@ -1,0 +1,231 @@
+[
+
+{"category":"projects","title":"Beautiful Imagery Browsing","subtitle":"","url":"/projects/libra/","date":""}
+,{"category":"projects","title":"Collect and verify mobile reports","subtitle":"","url":"/projects/refugee-reporting/","date":""}
+,{"category":"projects","title":"Data for Resilience","subtitle":"","url":"/projects/grp/","date":""}
+,{"category":"projects","title":"Tapping into OpenStreetMap Metadata","subtitle":"","url":"/projects/osm-metadata/","date":""}
+,{"category":"projects","title":"Satellite Imagery Power Tools","subtitle":"","url":"/projects/landsat-util/","date":""}
+,{"category":"projects","title":"Mexican Government Open Data","subtitle":"","url":"/projects/mexico-con-datos/","date":""}
+,{"category":"projects","title":"Afghanistan Elections","subtitle":"","url":"/projects/afghanistan-elections/","date":""}
+,{"category":"projects","title":"Open Prescription Drug Information","subtitle":"","url":"/projects/pillbox/","date":""}
+,{"category":"projects","title":"Tracking the Ebola Response in Guinea","subtitle":"","url":"/projects/relief-web-ebola/","date":""}
+,{"category":"projects","title":"Evaluating Global Green Energy Investment","subtitle":"","url":"/projects/climatescope/","date":""}
+,{"category":"projects","title":"Opening Funding Data on 6,000+ Projects","subtitle":"","url":"/projects/undp-open/","date":""}
+,{"category":"projects","title":"Launching Afghanistan's First Polling Center Finder","subtitle":"","url":"/projects/votehere-af/","date":""}
+,{"category":"projects","title":"Web-Index","subtitle":"","url":"/projects/web-index/","date":""}
+,{"category":"projects","title":"Opening Illinois Housing Data","subtitle":"","url":"/projects/woodstock/","date":""}
+,{"category":"projects","title":"Launching HealthCare.gov","subtitle":"","url":"/projects/healthcare-gov/","date":""}
+,{"category":"projects","title":"Relaunching data.unhcr.org","subtitle":"","url":"/projects/data-unhcr/","date":""}
+,{"category":"projects","title":"Adapting to Climate Change","subtitle":"","url":"/projects/global-adaptation-index/","date":""}
+,{"category":"projects","title":"Relief and Resilience Efforts in the Sahel region","subtitle":"","url":"/projects/sahel-response/","date":""}
+,{"category":"projects","title":"Disaster Preparedness Coordination Along the Pacific Rim","subtitle":"","url":"/projects/prcc/","date":""}
+,{"category":"projects","title":"InfoAmazonia Network for the Amazon Rainforest","subtitle":"","url":"/projects/infoamazonia/","date":""}
+,{"category":"projects","title":"Tracking the Pakistan Flood Response","subtitle":"","url":"/projects/bclc-pakistan/","date":""}
+,{"category":"projects","title":"Campaign for Global Justice","subtitle":"","url":"/projects/amnesty-global-justice/","date":""}
+,{"category":"projects","title":"Opening Up 140,000 Miles of Road Data in Africa","subtitle":"","url":"/projects/osm-africa/","date":""}
+,{"category":"projects","title":"Mapping 14,000 U.S. School Districts","subtitle":"","url":"/projects/newamerica-febp/","date":""}
+,
+
+{"category":"blog","title":"Introducing Collecticons","subtitle":"","url":"/blog/2015/07/27/collecticons-lib","date":"Jul 27 2015"}
+,{"category":"blog","title":"Field testing open source for road planning","subtitle":"","url":"/blog/2015/07/19/philippines-field-trip","date":"Jul 19 2015"}
+,{"category":"blog","title":"Access the Planet Labs archive","subtitle":"","url":"/blog/2015/07/16/planet-archive","date":"Jul 16 2015"}
+,{"category":"blog","title":"Open Drone Imagery","subtitle":"","url":"/blog/2015/07/06/drone-imagery","date":"Jul 06 2015"}
+,{"category":"blog","title":"UX/UI Designer Wanted","subtitle":"","url":"/blog/2015/06/26/uxui-designer-wanted","date":"Jun 26 2015"}
+,{"category":"blog","title":"How to Organize a Mapathon","subtitle":"","url":"/blog/2015/06/07/organizing-mapathons","date":"Jun 07 2015"}
+,{"category":"blog","title":"OpenAerialMap Interface Design","subtitle":"","url":"/blog/2015/06/05/designing-openaerialmap","date":"Jun 05 2015"}
+,{"category":"blog","title":"Off to State of the Map","subtitle":"","url":"/blog/2015/06/04/find-us-at-sotm","date":"Jun 04 2015"}
+,{"category":"blog","title":"Opening up Air Quality Data","subtitle":"","url":"/blog/2015/06/03/open-air-quality-data","date":"Jun 03 2015"}
+,{"category":"blog","title":"Welcome Robin Tolochko!","subtitle":"","url":"/blog/2015/05/29/welcome-robin","date":"May 29 2015"}
+,{"category":"blog","title":"Introducing OpenAerialMap","subtitle":"","url":"/blog/2015/05/27/introducing-openaerialmap","date":"May 27 2015"}
+,{"category":"blog","title":"Open Geospatial Happy Hour","subtitle":"","url":"/blog/2015/05/27/open-geospatial-happy-hour","date":"May 27 2015"}
+,{"category":"blog","title":"Oil-Climate Index Launches","subtitle":"","url":"/blog/2015/05/26/oci-launch","date":"May 26 2015"}
+,{"category":"blog","title":"We're sending a delegation to State of the Map US","subtitle":"","url":"/blog/2015/05/26/gearing-up-for-sotm","date":"May 26 2015"}
+,{"category":"blog","title":"Geospatial World Forum kicks off","subtitle":"","url":"/blog/2015/05/25/meet-us-at-geospatial-world-forum","date":"May 25 2015"}
+,{"category":"blog","title":"GitHub cards","subtitle":"","url":"/blog/2015/05/14/github-cards","date":"May 14 2015"}
+,{"category":"blog","title":"The Connectivity Atlas","subtitle":"","url":"/blog/2015/05/01/con-atlas","date":"May 01 2015"}
+,{"category":"blog","title":"Our new website - still Jekyll","subtitle":"","url":"/blog/2015/04/20/building-with-jekyll","date":"Apr 20 2015"}
+,{"category":"blog","title":"A Modern Imagery Processing Pipeline","subtitle":"","url":"/blog/2015/04/17/ad-platform-launch","date":"Apr 17 2015"}
+,{"category":"blog","title":"An OpenStreetMap for Government","subtitle":"","url":"/blog/2015/04/15/openstreetmap-for-government","date":"Apr 15 2015"}
+,{"category":"blog","title":"Tracking Metadata in Real-time","subtitle":"","url":"/blog/2015/04/14/tracking-osm-metadata","date":"Apr 14 2015"}
+,{"category":"blog","title":"Howdy, Anand Thakker!","subtitle":"","url":"/blog/2015/04/02/howdy-anand","date":"Apr 02 2015"}
+,{"category":"blog","title":"Welcome Emily Bremner!","subtitle":"","url":"/blog/2015/04/02/welcome-emily","date":"Apr 02 2015"}
+,{"category":"blog","title":"Optimizing Landsat-util","subtitle":"","url":"/blog/2015/03/28/twice-as-fast","date":"Mar 28 2015"}
+,{"category":"blog","title":"We're in the Philippines","subtitle":"","url":"/blog/2015/03/27/in-the-philippines","date":"Mar 27 2015"}
+,{"category":"blog","title":"Bem-vinda Caroline Portugal","subtitle":"","url":"/blog/2015/03/24/bem-vinda-caroline","date":"Mar 24 2015"}
+,{"category":"blog","title":"Powering Landsat Power Tools","subtitle":"","url":"/blog/2015/03/19/aws-landsat-archive","date":"Mar 19 2015"}
+,{"category":"blog","title":"Launching v0.5 of landsat-util","subtitle":"","url":"/blog/2015/03/10/releasing-landsat-v05","date":"Mar 10 2015"}
+,{"category":"blog","title":"Collect and verify mobile reports","subtitle":"","url":"/blog/2015/03/10/mobile-reporting-workflow","date":"Mar 10 2015"}
+,{"category":"blog","title":"Hello San Francisco; Ready for FOSS4G","subtitle":"","url":"/blog/2015/03/09/in-sf-for-foss4g","date":"Mar 09 2015"}
+,{"category":"blog","title":"Tapping into OpenStreetMap Metadata","subtitle":"","url":"/blog/2015/02/19/tapping-into-osm-metadata","date":"Feb 19 2015"}
+,{"category":"blog","title":"Open Data Day Garage Party","subtitle":"","url":"/blog/2015/02/13/odddc-garage-party","date":"Feb 13 2015"}
+,{"category":"blog","title":"Data Hungry Happy Hour","subtitle":"","url":"/blog/2015/02/06/data-hungry-happy-hour","date":"Feb 06 2015"}
+,{"category":"blog","title":"Welcome Mariano Arrien-Gomez","subtitle":"","url":"/blog/2015/02/02/welcome-mariano","date":"Feb 02 2015"}
+,{"category":"blog","title":"Announcing Libra - the Landsat imagery browser you will love","subtitle":"","url":"/blog/2015/01/22/announcing-libra","date":"Jan 22 2015"}
+,{"category":"blog","title":"Introducing Development Seed Lisbon","subtitle":"","url":"/blog/2015/01/20/introducing-development-seed-lisbon","date":"Jan 20 2015"}
+,{"category":"blog","title":"Building a Better Satellite Imagery Browser","subtitle":"","url":"/blog/2015/01/15/astro-digital-image-search","date":"Jan 15 2015"}
+,{"category":"blog","title":"Development Seed opens office in Lisbon","subtitle":"","url":"/blog/2015/01/15/development-seed-opens-office-in-lisbon","date":"Jan 15 2015"}
+,{"category":"blog","title":"Open Data Happy Hour in Lisbon","subtitle":"","url":"/blog/2015/01/09/open-data-happy-hour","date":"Jan 09 2015"}
+,{"category":"blog","title":"Welcome Joe Flasher","subtitle":"","url":"/blog/2015/01/08/howdy-joe","date":"Jan 08 2015"}
+,{"category":"blog","title":"2014 Web Index measures the Internet's openness and impact","subtitle":"","url":"/blog/2014/12/12/launching-web-index","date":"Dec 12 2014"}
+,{"category":"blog","title":"A Home for Open Housing Data","subtitle":"","url":"/blog/2014/11/17/housing-in-illinois","date":"Nov 17 2014"}
+,{"category":"blog","title":"Join us at EcoHack this weekend","subtitle":"","url":"/blog/2014/11/13/hosting-ecohack","date":"Nov 13 2014"}
+,{"category":"blog","title":"International Conference of Crisis Mappers storms NYC","subtitle":"","url":"/blog/2014/11/06/iccm-storms-nyc","date":"Nov 06 2014"}
+,{"category":"blog","title":"Getting to vote","subtitle":"","url":"/blog/2014/11/04/us-election","date":"Nov 04 2014"}
+,{"category":"blog","title":"Hey there, designers.","subtitle":"","url":"/blog/2014/11/02/attention-designer","date":"Nov 02 2014"}
+,{"category":"blog","title":"Astro Digital completing new design specs","subtitle":"","url":"/blog/2014/10/30/astro-digital-launch","date":"Oct 30 2014"}
+,{"category":"blog","title":"Marhaba Marc Farra","subtitle":"","url":"/blog/2014/10/28/marhaba-marc","date":"Oct 28 2014"}
+,{"category":"blog","title":"Getting Green into Green Energy","subtitle":"","url":"/blog/2014/10/28/climatescope","date":"Oct 28 2014"}
+,{"category":"blog","title":"Howdy Dan McCarey","subtitle":"","url":"/blog/2014/10/27/howdy-dan","date":"Oct 27 2014"}
+,{"category":"blog","title":"Giving context to open spending data","subtitle":"","url":"/blog/2014/10/02/satellite-provides-historical-context","date":"Oct 02 2014"}
+,{"category":"blog","title":"Thanks for Having Us, ONA","subtitle":"","url":"/blog/2014/10/02/bye-bye-ona","date":"Oct 02 2014"}
+,{"category":"blog","title":"Major Open Data Push by the Mexican Government","subtitle":"","url":"/blog/2014/10/01/mexico-open-data-push","date":"Oct 01 2014"}
+,{"category":"blog","title":"Development in the Time of Climate Change","subtitle":"","url":"/blog/2014/09/19/global-resilience-partnership-launch","date":"Sep 19 2014"}
+,{"category":"blog","title":"Flood Monitoring with Satellites","subtitle":"","url":"/blog/2014/09/15/flood-mapping","date":"Sep 15 2014"}
+,{"category":"blog","title":"Power tools for Satellite Imagery","subtitle":"","url":"/blog/2014/08/29/landsat-util","date":"Aug 29 2014"}
+,{"category":"blog","title":"Exploring space faster","subtitle":"","url":"/blog/2014/08/21/sneak-peek-landsat-util","date":"Aug 21 2014"}
+,{"category":"blog","title":"Extracting building height from Lidar","subtitle":"","url":"/blog/2014/08/07/processing-lidar-point-cloud","date":"Aug 07 2014"}
+,{"category":"blog","title":"Adding Context to Afghanistan Runoff Elections","subtitle":"","url":"/blog/2014/07/28/afghanistan-runoff-site","date":"Jul 28 2014"}
+,{"category":"blog","title":"Hello, SRCCON","subtitle":"","url":"/blog/2014/07/23/hello-srccon","date":"Jul 23 2014"}
+,{"category":"blog","title":"Jekyll-hook Updated; Run your own Github Pages","subtitle":"","url":"/blog/2014/07/23/jekyll-hook","date":"Jul 23 2014"}
+,{"category":"blog","title":"Opening an election, thank you Github","subtitle":"","url":"/blog/2014/07/19/afghanistan-github","date":"Jul 19 2014"}
+,{"category":"blog","title":"Alireza joins Development Seed","subtitle":"","url":"/blog/2014/07/16/hey-alireza","date":"Jul 16 2014"}
+,{"category":"blog","title":"Visualizing Water Cut Backs in Las Vegas","subtitle":"","url":"/blog/2014/07/16/las-vegas-water","date":"Jul 16 2014"}
+,{"category":"blog","title":"Open Mapping Happy Hour in Berlin","subtitle":"","url":"/blog/2014/07/11/OKFest","date":"Jul 11 2014"}
+,{"category":"blog","title":"Visualizing North Korea's Worst Drought in Decades","subtitle":"","url":"/blog/2014/07/08/NK_NDVI","date":"Jul 08 2014"}
+,{"category":"blog","title":"Afghanistan Runoff Elections from Space","subtitle":"","url":"/blog/2014/07/07/afghanistan-runoff-from-space","date":"Jul 07 2014"}
+,{"category":"blog","title":"Auditing the Afghanistan Audits","subtitle":"","url":"/blog/2014/07/03/afgh-audits","date":"Jul 03 2014"}
+,{"category":"blog","title":"OpenStreetMap, Disaster Preparedness, and Growing Cities","subtitle":"","url":"/blog/2014/07/01/osm-in-five-fastest-cities","date":"Jul 01 2014"}
+,{"category":"blog","title":"OpenStreetMap for disaster risk management","subtitle":"","url":"/blog/2014/06/30/understanding-risk-forum","date":"Jun 30 2014"}
+,{"category":"blog","title":"Remote sensing conflict in Iraq","subtitle":"","url":"/blog/2014/06/26/processing-iraq-landsat","date":"Jun 26 2014"}
+,{"category":"blog","title":"Growing the team this summer","subtitle":"","url":"/blog/2014/06/25/welcome-summer-team","date":"Jun 25 2014"}
+,{"category":"blog","title":"ISIS damage to Baiji oil refinery","subtitle":"","url":"/blog/2014/06/25/iraq-oil-fire","date":"Jun 25 2014"}
+,{"category":"blog","title":"Open Data to Design Better Elections in Lebanon","subtitle":"","url":"/blog/2014/06/23/open-data-lebanon","date":"Jun 23 2014"}
+,{"category":"blog","title":"Drew Bollinger joins Development Seed","subtitle":"","url":"/blog/2014/06/16/drew-joins-developmentseed","date":"Jun 16 2014"}
+,{"category":"blog","title":"Observing Elections from Space","subtitle":"","url":"/blog/2014/06/12/runoff-election-satellites","date":"Jun 12 2014"}
+,{"category":"blog","title":"Updated Brazilian Satellite Imagery","subtitle":"","url":"/blog/2014/06/11/satellite-right","date":"Jun 11 2014"}
+,{"category":"blog","title":"Finding Your Way to Vote","subtitle":"","url":"/blog/2014/06/11/votehere","date":"Jun 11 2014"}
+,{"category":"blog","title":"Afghanistan Election Results","subtitle":"","url":"/blog/2014/05/30/afghanistan-results","date":"May 30 2014"}
+,{"category":"blog","title":"Making drug information smart and open","subtitle":"","url":"/blog/2014/05/23/pillbox-launches-on-github","date":"May 23 2014"}
+,{"category":"blog","title":"Tunisia Open Election Data","subtitle":"","url":"/blog/2014/05/22/tunisia-open-election-data","date":"May 22 2014"}
+,{"category":"blog","title":"Learn to put your data on the map with d3.js","subtitle":"","url":"/blog/2014/05/16/we-are-teaching-a-workshop","date":"May 16 2014"}
+,{"category":"blog","title":"Making Sense of Census Data Over Time","subtitle":"","url":"/blog/2014/04/25/making-sense-of-census-changes","date":"Apr 25 2014"}
+,{"category":"blog","title":"Let's Make a Better HOT OSM Export Tool","subtitle":"","url":"/blog/2014/04/15/lets-make-a-better-hot-osm-export-tool","date":"Apr 15 2014"}
+,{"category":"blog","title":"Scrubbing Afghanistan Election Data for OpenStreetMap","subtitle":"","url":"/blog/2014/04/11/afghanistan-poi-import","date":"Apr 11 2014"}
+,{"category":"blog","title":"Tracking the Ebola Response in Guinea","subtitle":"","url":"/blog/2014/04/10/reliefweb-disaster-tracker","date":"Apr 10 2014"}
+,{"category":"blog","title":"ReliefWeb Opens 20 Years of Humanitarian Data","subtitle":"","url":"/blog/2014/04/10/reliefweb-api-launch","date":"Apr 10 2014"}
+,{"category":"blog","title":"Better Ballot Allocation","subtitle":"","url":"/blog/2014/04/09/polling-coverage-analysis","date":"Apr 09 2014"}
+,{"category":"blog","title":"Afghanistan Closes 748 Polling Centers","subtitle":"","url":"/blog/2014/04/05/closed-polls-af","date":"Apr 05 2014"}
+,{"category":"blog","title":"Launching Afghanistan's First Polling Center Finder","subtitle":"","url":"/blog/2014/04/04/votehere-af","date":"Apr 04 2014"}
+,{"category":"blog","title":"Afghanistan Elections: Observing the Observers","subtitle":"","url":"/blog/2014/04/03/afghanistan-elections","date":"Apr 03 2014"}
+,{"category":"blog","title":"Distance to Voter Registration Centers","subtitle":"","url":"/blog/2014/04/01/distance-to-voter-registration","date":"Apr 01 2014"}
+,{"category":"blog","title":"On Building The Lightest Twitter App Possible","subtitle":"","url":"/blog/2014/03/31/twitter-server","date":"Mar 31 2014"}
+,{"category":"blog","title":"Why We Opened Afghanistan's Election Data","subtitle":"","url":"/blog/2014/03/03/why-afghanistan-open","date":"Mar 03 2014"}
+,{"category":"blog","title":"Open Data Day Pre-Party Pics","subtitle":"","url":"/blog/2014/02/24/open-data-day-party-pics","date":"Feb 24 2014"}
+,{"category":"blog","title":"Better Data for Better Elections with the Afghanistan Open Data Project","subtitle":"","url":"/blog/2014/02/21/launching-afghanistan-open","date":"Feb 21 2014"}
+,{"category":"blog","title":"Hiring a Satellite Imagery Intern","subtitle":"","url":"/blog/2014/02/12/hiring-imagery-intern","date":"Feb 12 2014"}
+,{"category":"blog","title":"Understanding access to services and resources ","subtitle":"","url":"/blog/2014/02/11/global-access-map","date":"Feb 11 2014"}
+,{"category":"blog","title":"Open garage for open data","subtitle":"","url":"/blog/2014/02/10/opendataday-preparty","date":"Feb 10 2014"}
+,{"category":"blog","title":"Heidi Jaafar Joins Development Seed","subtitle":"","url":"/blog/2014/02/06/heidi-joins-developmentseed","date":"Feb 06 2014"}
+,{"category":"blog","title":"Derek Lieu Joins Development Seed","subtitle":"","url":"/blog/2014/02/05/derek-joins-developmentseed","date":"Feb 05 2014"}
+,{"category":"blog","title":"Welcoming Heidi and Derek","subtitle":"","url":"/blog/2014/01/29/welcome-heidi-derek","date":"Jan 29 2014"}
+,{"category":"blog","title":"Insights from Radio Propagation Mapping","subtitle":"","url":"/blog/2014/01/29/rf-propagation","date":"Jan 29 2014"}
+,{"category":"blog","title":"Building tools with IATI early adopters","subtitle":"","url":"/blog/2014/01/23/iati-tag-in-montreal","date":"Jan 23 2014"}
+,{"category":"blog","title":"Presenting Afghanistan Election Data at Tonight's GeoDC Meetup","subtitle":"","url":"/blog/2014/01/08/presenting-afghanistan-data","date":"Jan 08 2014"}
+,{"category":"blog","title":"2013 Global Adaptation Index Released Today","subtitle":"","url":"/blog/2013/12/12/gain-launches","date":"Dec 12 2013"}
+,{"category":"blog","title":"Ian Schuler to lead Development Seed","subtitle":"","url":"/blog/2013/12/10/ian-schuler-to-lead-development-seed","date":"Dec 10 2013"}
+,{"category":"blog","title":"Data and Tools for a New Humanitarian Response","subtitle":"","url":"/blog/2013/11/27/iccm-data-tools","date":"Nov 27 2013"}
+,{"category":"blog","title":"Hiring a Designer","subtitle":"","url":"/blog/2013/11/15/hiring-a-designer","date":"Nov 15 2013"}
+,{"category":"blog","title":"GitHub is Our Office Space","subtitle":"","url":"/blog/2013/10/31/github-is-office","date":"Oct 31 2013"}
+,{"category":"blog","title":"It's Called Jekyll, and It Works","subtitle":"","url":"/blog/2013/10/24/its-called-jekyll","date":"Oct 24 2013"}
+,{"category":"blog","title":"Transforming IATI Data","subtitle":"","url":"/blog/2013/10/24/transforming-iati-data","date":"Oct 24 2013"}
+,{"category":"blog","title":"Hiring a Developer","subtitle":"","url":"/blog/2013/10/22/hiring-a-developer","date":"Oct 22 2013"}
+,{"category":"blog","title":"It's About Culture, Not Technology","subtitle":"","url":"/blog/2013/10/18/culture-not-technology","date":"Oct 18 2013"}
+,{"category":"blog","title":"Relaunching open.undp.org","subtitle":"","url":"/blog/2013/09/19/relaunching-undp-portal","date":"Sep 19 2013"}
+,{"category":"blog","title":"Prose Now Faster and Easier to Contribute After Major Refactor","subtitle":"","url":"/blog/prose-backbone-refactor","date":"Aug 22 2013"}
+,{"category":"blog","title":"Mapping the Affordable Care Act","subtitle":"","url":"/blog/2013/08/01/mapping-affordable-care-act","date":"Aug 01 2013"}
+,{"category":"blog","title":"Launching HealthCare.gov","subtitle":"","url":"/blog/2013/06/25/healthcare-launches-in-the-open","date":"Jun 25 2013"}
+,{"category":"blog","title":"Prose on Mobile","subtitle":"","url":"/blog/2013/06/21/prose-on-mobile","date":"Jun 21 2013"}
+,{"category":"blog","title":"Week in DC Tech: June 3","subtitle":"","url":"/blog/2013/june/3/week-dc-tech","date":"Jun 03 2013"}
+,{"category":"blog","title":"New Media Features in Prose","subtitle":"","url":"/blog/2013/05/28/media-support-in-prose","date":"May 28 2013"}
+,{"category":"blog","title":"Week in DC Tech: May 13","subtitle":"","url":"/blog/2013/may/13/week-dc-tech","date":"May 13 2013"}
+,{"category":"blog","title":"Major New Features in Prose v1","subtitle":"","url":"/blog/2013/05/08/major-new-features-prose-v1","date":"May 08 2013"}
+,{"category":"blog","title":"Week in DC Tech: May 6","subtitle":"","url":"/blog/2013/may/6/week-dc-tech","date":"May 06 2013"}
+,{"category":"blog","title":"Hosting May DC Web API Meetup at Development Seed","subtitle":"","url":"/blog/2013/05/06/hosting-may-api-meetup","date":"May 06 2013"}
+,{"category":"blog","title":"Introducing Jekyll-hook: Run your own GitHub Pages","subtitle":"","url":"/blog/2013/05/01/introducing-jekyll-hook","date":"May 01 2013"}
+,{"category":"blog","title":"Week in DC Tech: April 29","subtitle":"","url":"/blog/2013/apr/29/week-dc-tech","date":"Apr 29 2013"}
+,{"category":"blog","title":"New Plugin Brings Google Analytics Data to Jekyll Sites","subtitle":"","url":"/blog/google-analytics-jekyll-plugin","date":"Apr 26 2013"}
+,{"category":"blog","title":"Multilingual Jekyll","subtitle":"","url":"/blog/multilingual-jekyll-sites","date":"Apr 23 2013"}
+,{"category":"blog","title":"Week in DC Tech: April 22","subtitle":"","url":"/blog/2013/apr/22/week-dc-tech","date":"Apr 22 2013"}
+,{"category":"blog","title":"Building Accessible Static Sites","subtitle":"","url":"/blog/building-accessible-static-sites","date":"Apr 17 2013"}
+,{"category":"blog","title":"Week in DC Tech: April 15","subtitle":"","url":"/blog/2013/apr/15/week-dc-tech","date":"Apr 15 2013"}
+,{"category":"blog","title":"UNHCR Relaunches data.unhcr.org","subtitle":"","url":"/blog/unhcr-redesign-relaunch","date":"Apr 08 2013"}
+,{"category":"blog","title":"Week in DC Tech: April 1","subtitle":"","url":"/blog/2013/apr/02/week-dc-tech/","date":"Apr 02 2013"}
+,{"category":"blog","title":"Healthcare.gov Featured on FedOSS Podcast","subtitle":"","url":"/blog/2013/04/02/healthcare-gov-fedoss-podcast","date":"Apr 02 2013"}
+,{"category":"blog","title":"Building a New Prose","subtitle":"","url":"/blog/building-a-new-prose","date":"Mar 20 2013"}
+,{"category":"blog","title":"New Healthcare.gov is Open, CMS-Free","subtitle":"","url":"/blog/new-healthcare-gov-is-open-and-cms-free","date":"Mar 12 2013"}
+,{"category":"blog","title":"Guinea Opens Mining Contracts","subtitle":"","url":"/blog/guinea-contracts","date":"Feb 19 2013"}
+,{"category":"blog","title":"Week in DC Tech: February 4","subtitle":"","url":"/blog/2013/feb/04/week-dc-tech","date":"Feb 04 2013"}
+,{"category":"blog","title":"Week in DC Tech: January 28","subtitle":"","url":"/blog/2013/jan/28/week-dc-tech","date":"Jan 28 2013"}
+,{"category":"blog","title":"Week in DC Tech: Inauguration Day Edition","subtitle":"","url":"/blog/2013/jan/22/week-dc-tech","date":"Jan 22 2013"}
+,{"category":"blog","title":"Looking for Mapping + Data Intern","subtitle":"","url":"/blog/mapping-data-intern-spring","date":"Jan 18 2013"}
+,{"category":"blog","title":"Week in DC Tech: January 14","subtitle":"","url":"/blog/2013/jan/14/week-dc-tech","date":"Jan 14 2013"}
+,{"category":"blog","title":"Week in DC Tech: January 7","subtitle":"","url":"/blog/2013/jan/07/week-dc-tech","date":"Jan 07 2013"}
+,{"category":"blog","title":"Week in DC Tech: December 17","subtitle":"","url":"/blog/2012/dec/17/week-dc-tech","date":"Dec 17 2012"}
+,{"category":"blog","title":"Week in DC Tech: December 10","subtitle":"","url":"/blog/2012/dec/10/week-dc-tech","date":"Dec 10 2012"}
+,{"category":"blog","title":"Advancing Openness in International Development","subtitle":"","url":"/blog/making-all-voices-count","date":"Dec 05 2012"}
+,{"category":"blog","title":"Week in DC Tech: December 3","subtitle":"","url":"/blog/2012/dec/03/week-dc-tech","date":"Dec 03 2012"}
+,{"category":"blog","title":"UNDP Opens Up Funding Data Across 6,000+ Projects ","subtitle":"","url":"/blog/2012/nov/29/open-undp-launches","date":"Nov 29 2012"}
+,{"category":"blog","title":"Week in DC Tech: November 26","subtitle":"","url":"/blog/2012/nov/26/week-dc-tech","date":"Nov 26 2012"}
+,{"category":"blog","title":"Week in DC Tech: November 12","subtitle":"","url":"/blog/2012/nov/12/week-dc-tech","date":"Nov 12 2012"}
+,{"category":"blog","title":"Open Source Map Training at Tech Camp Morocco","subtitle":"","url":"/blog/techcamp-morocco","date":"Nov 12 2012"}
+,{"category":"blog","title":"InfoAmazonia Now Maps Deforestion in All Nine Amazonian Countries","subtitle":"","url":"/blog/infoamazonia-maps-deforestation","date":"Nov 09 2012"}
+,{"category":"blog","title":"Realtime Election Results Map","subtitle":"","url":"/blog/2012/nov/06/realtime-election-results-map","date":"Nov 06 2012"}
+,{"category":"blog","title":"Week in DC Tech: November 5","subtitle":"","url":"/blog/2012/nov/05/week-dc-tech","date":"Nov 05 2012"}
+,{"category":"blog","title":"Week in DC Tech: Sandy Edition","subtitle":"","url":"/blog/2012/oct/29/week-dc-tech","date":"Oct 29 2012"}
+,{"category":"blog","title":"Opening Oil Spill Data in Nigeria","subtitle":"","url":"/blog/2012/opening-oil-spill-data-nigeria","date":"Oct 23 2012"}
+,{"category":"blog","title":"Week in DC Tech: October 22","subtitle":"","url":"/blog/2012/oct/22/week-dc-tech","date":"Oct 22 2012"}
+,{"category":"blog","title":"Updated Global Adaptation Index Launches","subtitle":"","url":"/blog/2012/oct/19/gain-2012-launches","date":"Oct 19 2012"}
+,{"category":"blog","title":"Mapping Reforestation in Lebanon","subtitle":"","url":"/blog/mapping-reforestation-lebanon","date":"Oct 18 2012"}
+,{"category":"blog","title":"Week in DC Tech: October 8","subtitle":"","url":"/blog/2012/oct/08/week-dc-tech","date":"Oct 08 2012"}
+,{"category":"blog","title":"Week in DC Tech: October 1","subtitle":"","url":"/blog/2012/oct/01/week-dc-tech","date":"Oct 01 2012"}
+,{"category":"blog","title":"Continuing the Crisis Mapping Conversation at ICCM 2012","subtitle":"","url":"/blog/iccm-2012-submissions","date":"Sep 26 2012"}
+,{"category":"blog","title":"East Timor Elections","subtitle":"","url":"/blog/east-timor-election","date":"Sep 26 2012"}
+,{"category":"blog","title":"Week in DC Tech: September 24","subtitle":"","url":"/blog/2012/sept/24/week-dc-tech","date":"Sep 24 2012"}
+,{"category":"blog","title":"Week in DC Tech: September 17","subtitle":"","url":"/blog/2012/sept/17/week-dc-tech","date":"Sep 17 2012"}
+,{"category":"blog","title":"Mapping Dynamic Data Directly from a Google Spreadsheet","subtitle":"","url":"/blog/2012/sept/13/mapping-dynamic-data-google-spreadsheet","date":"Sep 13 2012"}
+,{"category":"blog","title":"Open Source Mapping in Ukraine","subtitle":"","url":"/blog/2012/sept/12/tech-camp-kyiv","date":"Sep 12 2012"}
+,{"category":"blog","title":"Week in DC Tech: September 10","subtitle":"","url":"/blog/2012/sept/10/week-dc-tech","date":"Sep 10 2012"}
+,{"category":"blog","title":"Week in DC Tech: Labor Day Edition","subtitle":"","url":"/blog/2012/sept/04/week-dc-tech","date":"Sep 04 2012"}
+,{"category":"blog","title":"Week in DC Tech: August 27","subtitle":"","url":"/blog/2012/aug/27/week-dc-tech","date":"Aug 27 2012"}
+,{"category":"blog","title":"Week in DC Tech: August 20","subtitle":"","url":"/blog/2012/aug/20/week-dc-tech","date":"Aug 20 2012"}
+,{"category":"blog","title":"Community Mapping in Tandale, Tanzania","subtitle":"","url":"/blog/2012/aug/14/community-mapping-tandale-tanzania","date":"Aug 14 2012"}
+,{"category":"blog","title":"Week in DC Tech: August 13","subtitle":"","url":"/blog/2012/aug/13/week-dc-tech","date":"Aug 13 2012"}
+,{"category":"blog","title":"Prose 0.4 Released","subtitle":"","url":"/blog/2012/08/02/prose-04-released","date":"Aug 02 2012"}
+,{"category":"blog","title":"Week in DC Tech: July 30","subtitle":"","url":"/blog/2012/july/30/week-dc-tech","date":"Jul 30 2012"}
+,{"category":"blog","title":"How We Build CMS-Free Websites","subtitle":"","url":"/blog/2012/07/27/build-cms-free-websites","date":"Jul 27 2012"}
+,{"category":"blog","title":"MIX Market's New Maps Portal","subtitle":"","url":"/blog/2012/07/26/mix-maps-portal","date":"Jul 26 2012"}
+,{"category":"blog","title":"Week in DC Tech: July 23","subtitle":"","url":"/blog/2012/july/23/week-dc-tech","date":"Jul 23 2012"}
+,{"category":"blog","title":"Mapping International Justice with Amnesty International","subtitle":"","url":"/blog/2012/july/17/mapping-international-justice","date":"Jul 17 2012"}
+,{"category":"blog","title":"Week in DC Tech: July 16","subtitle":"","url":"/blog/2012/july/16/week-dc-tech","date":"Jul 16 2012"}
+,{"category":"blog","title":"Let's Talk Data","subtitle":"","url":"/blog/2012/july/11/lets-talk-data","date":"Jul 11 2012"}
+,{"category":"blog","title":"Week in DC Tech: July 9","subtitle":"","url":"/blog/2012/july/09/week-dc-tech","date":"Jul 09 2012"}
+,{"category":"blog","title":"Prose 0.2.0 Now Available","subtitle":"","url":"/blog/2012/july/9/prose-020","date":"Jul 09 2012"}
+,{"category":"blog","title":"Week in DC Tech: Independence Day","subtitle":"","url":"/blog/2012/july/02/week-dc-tech","date":"Jul 02 2012"}
+,{"category":"blog","title":"Week in DC Tech: June 25th","subtitle":"","url":"/blog/2012/june/25/week-dc-tech","date":"Jun 25 2012"}
+,{"category":"blog","title":"Introducing Prose: A Content Editor for GitHub","subtitle":"","url":"/blog/2012/june/25/prose-a-content-editor-for-github","date":"Jun 25 2012"}
+,{"category":"blog","title":"Mapping Greenpeace's Marine Reserve Network Plan","subtitle":"","url":"/blog/2012/june/21/mapping-greenpeace-marine-reserve-network","date":"Jun 21 2012"}
+,{"category":"blog","title":"InfoAmazonia Launches Ahead of Rio+20","subtitle":"","url":"/blog/2012/june/19/info-amazonia-launches","date":"Jun 19 2012"}
+,{"category":"blog","title":"Week in DC Tech: June 18th","subtitle":"","url":"/blog/2012/june/18/week-dc-tech","date":"Jun 18 2012"}
+,{"category":"blog","title":"Week in DC Tech: June 11th","subtitle":"","url":"/blog/2012/june/11/week-dc-tech","date":"Jun 11 2012"}
+,{"category":"blog","title":"Week in DC Tech: June 6th","subtitle":"","url":"/blog/2012/june/04/week-dc-tech","date":"Jun 04 2012"}
+,{"category":"blog","title":"News and Maps from the Amazon Rainforest","subtitle":"","url":"/blog/2012/may/30/info-amazonia-partnership","date":"May 30 2012"}
+,{"category":"blog","title":"Week in DC Tech: Memorial Day","subtitle":"","url":"/blog/2012/may/29/week-dc-tech","date":"May 29 2012"}
+,{"category":"blog","title":"Week in DC Tech: May 21","subtitle":"","url":"/blog/2012/may/21/week-dc-tech","date":"May 21 2012"}
+,{"category":"blog","title":"NodeDC Meetup Tonight at 7 pm","subtitle":"","url":"/blog/2012/may/16/nodedc-may","date":"May 16 2012"}
+,{"category":"blog","title":"Week in DC Tech: May 14","subtitle":"","url":"/blog/2012/may/14/week-dc-tech","date":"May 14 2012"}
+,{"category":"blog","title":"Week in DC Tech: May 7","subtitle":"","url":"/blog/2012/may/07/week-dc-tech","date":"May 07 2012"}
+,{"category":"blog","title":"Financial Inclusion in South Africa","subtitle":"","url":"/blog/2012/may/7/financial-inclusion-in-south-africa","date":"May 07 2012"}
+,{"category":"blog","title":"Workshop: New Tools in Mapping for Disasters and Development","subtitle":"","url":"/blog/2012/may/03/new-tools-disaster-development","date":"May 03 2012"}
+,
+false
+]
