@@ -15,11 +15,9 @@ image: http://placehold.it/300x300
   <ul class="post-list">
     {% for post in site.posts %}
       {% if post.categories contains 'transporte-publico' %}
-        <!-- {% if post.category == category.category and project.publish == true %} -->
       <li>
         <h2>
             <a class="post-link" href="{{ post.url }}">+ {{ post.title }}</a>
-            <!-- <a href="{{ post.permalink }}/.html">{{ post.title }}</a> -->
         </h2>
       </li>
       {% endif %}

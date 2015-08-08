@@ -1,6 +1,7 @@
 module.exports = function (grunt) {
+  // require('time-grunt')(grunt);
+  // require('load-grunt-config')(grunt);
   grunt.initConfig({
-
     shell: {
       run_file:{
         command: 'sh ./bash.sh',

@@ -1,25 +1,4 @@
-module.exports = function (grunt) {
-  // require('time-grunt')(grunt);
-  // require('load-grunt-config')(grunt);
-  grunt.initConfig({
-    shell: {
-      run_file:{
-        command: 'sh ./bash.sh',
-        options: {
-            stdout: true
-        }
-      }
-    },
-    watch: {
-      run_file: {
-        files: ["**/*.md","**/*.html","!/_site"],
-        tasks: ["shell:run_file"]
-      }
-    }
-  });
-  grunt.loadNpmTasks('grunt-contrib-watch');
-  grunt.loadNpmTasks('grunt-shell');
-
+module.exports = {
   grunt.registerTask('dev', function() {
     var conf = grunt.file.readYAML('_config.yml');
     conf.baseurl = '';
@@ -36,4 +15,4 @@ module.exports = function (grunt) {
     YAML = require('yamljs');
     grunt.file.write('_config.yml', YAML.stringify(conf));
   });
-};
+}
