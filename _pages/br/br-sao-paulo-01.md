@@ -17,7 +17,7 @@ image: http://placehold.it/300x300
       {% if post.categories contains 'transporte-publico' %}
       <li>
         <h2>
-            <a class="post-link" href="{{ post.url }}">+ {{ post.title }}</a>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">+ {{ post.title }}</a>
         </h2>
       </li>
       {% endif %}

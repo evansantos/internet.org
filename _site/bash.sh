@@ -11,7 +11,7 @@ echo "Build start...";
 echo "--------------------------------------------------------------------";
 jekyll build
 git add --all
-git commit -m 'deploy'
+git commit -m 'Deploy'
 git push
 echo "--------------------------------------------------------------------";
 echo "Build complete!! _site packaged sent to git! WHORRAY!!!";
