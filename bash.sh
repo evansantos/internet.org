@@ -5,7 +5,7 @@
 # Updated At: 2015-08-07
 
 DATE=$(date +"%Y%m%d_%H%M%S")
-HOUR=$(date +"%H%M%S")
+HOUR=$(date +"%H:%M:%S")
 
 # Run production task
 grunt prod
