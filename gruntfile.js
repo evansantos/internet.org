@@ -2,7 +2,7 @@ module.exports = function (grunt) {
   grunt.initConfig({
     shell: {
       run_file:{
-        command: 'sh ./bash.sh',
+        command: 'sh ./deploy.sh',
         options: {
             stdout: true
         }
