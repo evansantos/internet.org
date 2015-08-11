@@ -22,5 +22,4 @@ echo '--------------------------------------------------------------------';
 echo 'Build complete at '$HOUR'!! _site packaged sent to git! WHORRAY!!!';
 echo '--------------------------------------------------------------------';
 
-# Run developers task
 grunt dev
