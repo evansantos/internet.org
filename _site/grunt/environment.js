@@ -1,18 +1,11 @@
-module.exports = {
-  grunt.registerTask('dev', function() {
-    var conf = grunt.file.readYAML('_config.yml');
-    conf.baseurl = '';
-    conf.url = '';
-    YAML = require('yamljs');
-    grunt.file.write('_config.yml', YAML.stringify(conf));
-  });
+var yaml        = require('yamljs');
+var e           = yaml.load('_config.yml');
 
-  grunt.registerTask('prod', function() {
-    // setTimeout(this.async(), 9900);
-    var conf = grunt.file.readYAML('_config.yml');
-    conf.baseurl= '/internet.org';
-    conf.url = 'http://gpechim.github.io';
-    YAML = require('yamljs');
-    grunt.file.write('_config.yml', YAML.stringify(conf));
-  });
+if (e.baseurl === '' && e.url === ''){
+    e.baseurl   = '/internet.org';
+    e.url       = 'http://gpechim.github.io';
+}
+else {
+    e.baseurl   = '';
+    e.url       = '';
 }
