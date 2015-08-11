@@ -9,7 +9,7 @@ HOUR=$(date +"%H:%M:%S")
 
 # Run production task
 grunt prod
-# node grunt/environment.js
+node grunt/environment.js
 
 echo '--------------------------------------------------------------------';
 echo 'Build start at '$HOUR'...';
