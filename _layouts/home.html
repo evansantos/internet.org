@@ -1,0 +1,16 @@
+---
+layout: default
+---
+  <header class="post-header">
+    <h2 class="">Escolha sua cidade</h2>
+    <hr>
+  </header>
+
+<div class="">
+{% for page in site.pages %}
+  {% if page.tag contains 'citybr' %}
+  <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+  {% endif %}
+{% endfor %}
+
+</div>
