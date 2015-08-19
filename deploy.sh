@@ -20,6 +20,7 @@ jekyll build
 git add --all
 git commit -m 'Deploy '$DATE''
 git push
+
 echo '--------------------------------------------------------------------';
 echo 'Build complete at '$HOUR'!! _site packaged sent to git! WHORRAY!!!';
 echo '--------------------------------------------------------------------';

@@ -4,7 +4,7 @@ title: Transporte Público
 permalink: /br/sao-paulo/transporte-publico/
 tag: [citybrsp]
 category: São Paulo
-image: http://placehold.it/300x300
+image: /images/br/
 ---
 
 <div class="home">

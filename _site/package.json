@@ -12,6 +12,7 @@
     "grunt": "^0.4.4",
     "grunt-concurrent": "^2.0.1",
     "grunt-contrib-watch": "^0.6.0",
+    "grunt-hologram": "0.0.7",
     "grunt-newer": "^1.1.1",
     "grunt-notify": "^0.4.1",
     "grunt-shell": "^0.6.4",
