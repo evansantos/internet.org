@@ -1,2 +1,3 @@
 node_modules/*
 .sh
+_site/node_modules/*

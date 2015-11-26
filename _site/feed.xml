@@ -4,11 +4,11 @@
     <title>Home</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://gpechim.github.io/internet.org/</link>
-    <atom:link href="http://gpechim.github.io/internet.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 19 Aug 2015 18:56:51 -0300</pubDate>
-    <lastBuildDate>Wed, 19 Aug 2015 18:56:51 -0300</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 24 Nov 2015 23:10:56 -0200</pubDate>
+    <lastBuildDate>Tue, 24 Nov 2015 23:10:56 -0200</lastBuildDate>
+    <generator>Jekyll v3.0.0</generator>
     
       <item>
         <title>Post 1 - Transporte Público</title>
@@ -18,15 +18,17 @@
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;c1&quot;&gt;### any text&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;c1&quot;&gt;### any text&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 08 Aug 2015 00:00:00 -0300</pubDate>
-        <link>http://gpechim.github.io/internet.org/br/sao-paulo/transporte-publico/post-1</link>
-        <guid isPermaLink="true">http://gpechim.github.io/internet.org/br/sao-paulo/transporte-publico/post-1</guid>
+        <link>/br/sao-paulo/transporte-publico/post-1</link>
+        <guid isPermaLink="true">/br/sao-paulo/transporte-publico/post-1</guid>
         
+        
+        <category>br</category>
         
         <category>transporte-publico</category>
         
@@ -40,15 +42,17 @@
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;c1&quot;&gt;### any text&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;c1&quot;&gt;### any text&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 08 Aug 2015 00:00:00 -0300</pubDate>
-        <link>http://gpechim.github.io/internet.org/br/sao-paulo/transporte-alternativo/post-1</link>
-        <guid isPermaLink="true">http://gpechim.github.io/internet.org/br/sao-paulo/transporte-alternativo/post-1</guid>
+        <link>/br/sao-paulo/transporte-alternativo/post-1</link>
+        <guid isPermaLink="true">/br/sao-paulo/transporte-alternativo/post-1</guid>
         
+        
+        <category>br</category>
         
         <category>transporte-alternativo</category>
         
@@ -62,15 +66,17 @@
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;c1&quot;&gt;### any text&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;c1&quot;&gt;### any text&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 08 Aug 2015 00:00:00 -0300</pubDate>
-        <link>http://gpechim.github.io/internet.org/br/sao-paulo/lazer/post-1</link>
-        <guid isPermaLink="true">http://gpechim.github.io/internet.org/br/sao-paulo/lazer/post-1</guid>
+        <link>/br/sao-paulo/lazer/post-1</link>
+        <guid isPermaLink="true">/br/sao-paulo/lazer/post-1</guid>
         
+        
+        <category>br</category>
         
         <category>lazer</category>
         
@@ -93,9 +99,11 @@ ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jeky
 
 </description>
         <pubDate>Sat, 08 Aug 2015 00:00:00 -0300</pubDate>
-        <link>http://gpechim.github.io/internet.org/br/sao-paulo/fique-ligado/post-1</link>
-        <guid isPermaLink="true">http://gpechim.github.io/internet.org/br/sao-paulo/fique-ligado/post-1</guid>
+        <link>/br/sao-paulo/fique-ligado/post-1</link>
+        <guid isPermaLink="true">/br/sao-paulo/fique-ligado/post-1</guid>
         
+        
+        <category>br</category>
         
         <category>fique-ligado</category>
         

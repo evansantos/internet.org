@@ -1,16 +1,19 @@
 ---
 layout: default
 ---
-  <header class="post-header">
-    <h2 class="">Escolha sua cidade</h2>
-    <hr>
-  </header>
-
-<div class="">
+<div class="choose" style="text-align: center; border-top: #333 thin solid; border-bottom: #333 thin solid; width: 90%; margin: 0 auto; padding: 10px 0; font-size: 20px;">
+  <span class="fa-stack fa-lg" style="font-size: 14px;">
+    <i class="fa fa-circle-o fa-stack-2x"></i>
+    <i class="fa fa-map-marker fa-stack-1x"></i>
+  </span>
+  Escolha sua cidade
+</div>
+<ul>
 {% for page in site.pages %}
   {% if page.tag contains 'citybr' %}
-  <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a><br>
+  <li>
+    <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+  </li>
   {% endif %}
 {% endfor %}
-
-</div>
+</ul>
