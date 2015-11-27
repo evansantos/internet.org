@@ -3,4 +3,39 @@
   padding: 0; }
 
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #666; }
+
+.page-content {
+  width: 100%;
+  max-width: 414px;
+  margin: 0 auto; }
+  .page-content header.site-header {
+    border-top: yellow 3px solid;
+    text-align: center;
+    padding: 10px 0; }
+  .page-content .menu {
+    text-align: center;
+    border-top: #666 thin solid;
+    border-bottom: #666 thin solid;
+    width: 90%;
+    margin: 0 auto;
+    padding: 10px 0;
+    font-size: 20px; }
+    .page-content .menu .fa-stack {
+      font-size: 14px; }
+  .page-content ul.city-list {
+    list-style: none;
+    width: 90%;
+    height: 375px;
+    margin: 0 auto;
+    padding: 20px 0;
+    font-size: 18px;
+    overflow-y: scroll; }
+    .page-content ul.city-list li {
+      margin: 15px 0; }
+      .page-content ul.city-list li:first-child {
+        margin-top: 0; }
+      .page-content ul.city-list li a {
+        text-decoration: none;
+        color: #666; }
