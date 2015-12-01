@@ -29,7 +29,6 @@ tag: [citybr]
 
 <div class="home">
 
-<h3>{{ page.title }}</h3>
 
   <ul class="post-list">
     {% for page in site.pages %}

@@ -9,9 +9,6 @@ image: http://placehold.it/300x300
 
 <div class="home">
 
-  <h1 class="page-heading">{{ page.category }} / {{ page.title }}</h1>
-  <hr><br>
-
   <ul class="post-list">
     {% for post in site.posts %}
       {% if post.categories contains 'transporte-publico' %}
@@ -24,4 +21,3 @@ image: http://placehold.it/300x300
     {% endfor %}
   </ul>
 </div>
-

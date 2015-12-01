@@ -3,14 +3,11 @@ layout: page
 title: Transporte Alternativo
 permalink: /br/rio-de-janeiro/transporte-alternativo/
 tag: [citybrrj]
-category: São Paulo
+category: Rio de janeiro
 image: http://placehold.it/300x300
 ---
 
 <div class="home">
-
-  <h1 class="page-heading">{{ page.category }} / {{ page.title }}</h1>
-  <hr><br>
 
   <ul class="post-list">
     {% for post in site.posts %}

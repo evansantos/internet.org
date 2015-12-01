@@ -7,11 +7,9 @@ layout: default
 </div>
 
 <div class="post">
-  {% for page in site.pages %}
-  {% if page.category != null %}
-  <div  style="background-color: yellow; padding: 10px; width: 60%; margin: 0 auto; text-align: center; color: #fff;">{{ page.category }}{% if page.title != null %} / {{page.title}}{% endif %}</div>
-  {% endif %}
-  {% endfor %}
+
+  <div  style="background-color: yellow; padding: 2px; width: 60%; margin: 0 auto; text-align: center; color: #fff;">{% if page.category != null %}{{ page.category }}  /{% endif %}{% if page.title != null %} {{page.title}}{% endif %}</div>
+
 
   <article class="post-content">
     {{ content }}
