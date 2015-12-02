@@ -4,7 +4,7 @@ title: Transporte Público
 permalink: /br/sao-paulo/transporte-publico/
 tag: [citybrsp]
 category: São Paulo
-image: /images/br/
+image: http://placehold.it/175x175
 ---
 
 <div class="home">
@@ -13,9 +13,7 @@ image: /images/br/
     {% for post in site.posts %}
       {% if post.categories contains 'transporte-publico' %}
       <li>
-        <h2>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">+ {{ post.title }}</a>
-        </h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">+ {{ post.title }}</a>
       </li>
       {% endif %}
     {% endfor %}

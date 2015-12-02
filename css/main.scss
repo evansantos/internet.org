@@ -22,6 +22,8 @@ $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
+$yellow: #ffbf2e;
+
 // Width of the content area
 $mobile:          414px;
 
@@ -56,9 +58,13 @@ body {
   margin: 0 auto;
 
   header.site-header{
-    border-top: yellow 3px solid;
+    border-top: $yellow 4px solid;
     text-align: center;
     padding: 10px 0;
+    background-image: url(/images/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 10px
   }
 
   .menu{
@@ -75,7 +81,8 @@ body {
     }
   }
 
-  ul.city-list {
+  ul.city-list,
+  ul.post-list {
     list-style: none;
     width: 90%;
     height: 375px;
@@ -95,6 +102,13 @@ body {
         text-decoration: none;
         color: #666;
       }
+    }
+  }
+
+  .post {
+
+    .banner {
+      background-color: $yellow; padding: 2px; width: 60%; margin: 0 auto; text-align: center; color: #fff;
     }
   }
 }

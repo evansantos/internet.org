@@ -11,9 +11,13 @@ body {
   max-width: 414px;
   margin: 0 auto; }
   .page-content header.site-header {
-    border-top: yellow 3px solid;
+    border-top: #ffbf2e 4px solid;
     text-align: center;
-    padding: 10px 0; }
+    padding: 10px 0;
+    background-image: url(/images/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 10px; }
   .page-content .menu {
     text-align: center;
     border-top: #666 thin solid;
@@ -24,7 +28,8 @@ body {
     font-size: 20px; }
     .page-content .menu .fa-stack {
       font-size: 14px; }
-  .page-content ul.city-list {
+  .page-content ul.city-list,
+  .page-content ul.post-list {
     list-style: none;
     width: 90%;
     height: 375px;
@@ -32,10 +37,20 @@ body {
     padding: 20px 0;
     font-size: 18px;
     overflow-y: scroll; }
-    .page-content ul.city-list li {
+    .page-content ul.city-list li,
+    .page-content ul.post-list li {
       margin: 15px 0; }
-      .page-content ul.city-list li:first-child {
+      .page-content ul.city-list li:first-child,
+      .page-content ul.post-list li:first-child {
         margin-top: 0; }
-      .page-content ul.city-list li a {
+      .page-content ul.city-list li a,
+      .page-content ul.post-list li a {
         text-decoration: none;
         color: #666; }
+  .page-content .post .banner {
+    background-color: #ffbf2e;
+    padding: 2px;
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+    color: #fff; }

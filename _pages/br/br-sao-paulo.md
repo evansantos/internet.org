@@ -10,9 +10,9 @@ tag: [citybr]
     display: inline-block;
     margin: 0 auto;
   }
-  ul li{
+  ul.list li{
     display: inline-block;
-    margin: 5px;
+    margin: 15px 14px
   }
   h2{
     position: relative;
@@ -29,7 +29,7 @@ tag: [citybr]
 
 <div class="home">
 
-  <ul class="post-list">
+  <ul class="list">
     {% for page in site.pages %}
       {% if page.tag contains 'citybrsp' %}
       <li>
