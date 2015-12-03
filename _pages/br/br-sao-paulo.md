@@ -4,29 +4,6 @@ title: São Paulo
 permalink: /br/sao-paulo/
 tag: [citybr]
 ---
-
-<style type="text/css">
-  ul{
-    display: inline-block;
-    margin: 0 auto;
-  }
-  ul.list li{
-    display: inline-block;
-    margin: 15px 14px
-  }
-  h2{
-    position: relative;
-    color: #fff;
-    font-size: 16px;
-    text-align: center;
-  }
-  h2 span{
-    position: absolute;
-    left: 10px;
-    bottom: 10px;
-  }
-</style>
-
 <div class="home">
 
   <ul class="list">

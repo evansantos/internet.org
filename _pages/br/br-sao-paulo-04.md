@@ -11,9 +11,9 @@ image:  http://placehold.it/175x175
 
   <ul class="post-list">
     {% for post in site.posts %}
-      {% if post.categories contains 'fique-ligado' %}
+      {% if post.categories contains 'fique-ligado' and post.tag contains 'citybrsp' %}
       <li>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">+ {{ post.title }}</a>
       </li>
       {% endif %}
     {% endfor %}

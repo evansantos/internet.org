@@ -2,8 +2,11 @@
 layout: post
 title:  "Post 1 - Transporte Alternativo"
 date:   2015-08-08
+tag: [citybrsp]
 categories:
 - transporte-alternativo
+- São Paulo
+- Transporte Alternativo
 permalink: /br/sao-paulo/transporte-alternativo/post-1
 ---
 

@@ -76,8 +76,27 @@ body {
     padding: 10px 0;
     font-size: 20px;
 
+    a {
+      text-decoration: none;
+      color: #666;
+    }
+
     .fa-stack{
       font-size: 14px;
+    }
+  }
+  .choose {
+    text-align: center;
+    border-top: #333 thin solid;
+    border-bottom: #333 thin solid;
+    width: 90%;
+    margin: 0 auto;
+    padding: 10px 0;
+    font-size: 20px;
+
+    a {
+      text-decoration: none;
+      color: #666;
     }
   }
 
@@ -104,11 +123,77 @@ body {
       }
     }
   }
+  .home {
+    ul{
+      display: inline-block;
+      margin: 0 auto;
+
+      &.list li{
+        display: inline-block;
+        margin: 15px 14px
+      }
+
+      h2{
+        position: relative;
+        color: #fff;
+        font-size: 14px;
+        text-align: center;
+
+        span{
+          position: absolute;
+          left: 10px;
+          bottom: 10px;
+        }
+      }
+    }
+  }
 
   .post {
 
     .banner {
-      background-color: $yellow; padding: 2px; width: 60%; margin: 0 auto; text-align: center; color: #fff;
+      background-color: $yellow;
+      padding: 2px;
+      width: 75%;
+      margin: 0 auto;
+      text-align: center;
+      color: #fff;
+    }
+
+    .post-content {
+
+      h2 {
+        margin: 15px 0;
+        font-weight: 400;
+      }
+
+      img {
+
+        &.float-left{
+          float: left;
+          margin: 0 15px 15px 0;
+        }
+        &.float-right{
+          float: left;
+          margin: 0 0 15px 15px;
+        }
+      }
+    }
+  }
+}
+
+footer.site-footer {
+  margin: 0;
+  margin-top:20px;
+
+  .wrapper {
+    margin: 0 auto;
+    text-align: center;
+
+    a {
+      background-color: #000000;
+      color: #FFFFFF;
+      text-decoration: none;
+      padding: 7px 20px;
     }
   }
 }

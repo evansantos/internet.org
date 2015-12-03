@@ -26,8 +26,22 @@ body {
     margin: 0 auto;
     padding: 10px 0;
     font-size: 20px; }
+    .page-content .menu a {
+      text-decoration: none;
+      color: #666; }
     .page-content .menu .fa-stack {
       font-size: 14px; }
+  .page-content .choose {
+    text-align: center;
+    border-top: #333 thin solid;
+    border-bottom: #333 thin solid;
+    width: 90%;
+    margin: 0 auto;
+    padding: 10px 0;
+    font-size: 20px; }
+    .page-content .choose a {
+      text-decoration: none;
+      color: #666; }
   .page-content ul.city-list,
   .page-content ul.post-list {
     list-style: none;
@@ -47,10 +61,46 @@ body {
       .page-content ul.post-list li a {
         text-decoration: none;
         color: #666; }
+  .page-content .home ul {
+    display: inline-block;
+    margin: 0 auto; }
+    .page-content .home ul.list li {
+      display: inline-block;
+      margin: 15px 14px; }
+    .page-content .home ul h2 {
+      position: relative;
+      color: #fff;
+      font-size: 14px;
+      text-align: center; }
+      .page-content .home ul h2 span {
+        position: absolute;
+        left: 10px;
+        bottom: 10px; }
   .page-content .post .banner {
     background-color: #ffbf2e;
     padding: 2px;
-    width: 60%;
+    width: 75%;
     margin: 0 auto;
     text-align: center;
     color: #fff; }
+  .page-content .post .post-content h2 {
+    margin: 15px 0;
+    font-weight: 400; }
+  .page-content .post .post-content img.float-left {
+    float: left;
+    margin: 0 15px 15px 0; }
+  .page-content .post .post-content img.float-right {
+    float: left;
+    margin: 0 0 15px 15px; }
+
+footer.site-footer {
+  margin: 0;
+  margin-top: 20px; }
+  footer.site-footer .wrapper {
+    margin: 0 auto;
+    text-align: center; }
+    footer.site-footer .wrapper a {
+      background-color: #000000;
+      color: #FFFFFF;
+      text-decoration: none;
+      padding: 7px 20px; }
