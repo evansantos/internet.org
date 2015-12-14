@@ -1,10 +1,17 @@
 ---
 layout: default
 ---
+
+<div class="choose">
+  {% include menu.html %}
+</div>
+
 <div class="post">
 
+  <div  class="banner">{% if page.category != null %}{{ page.category }}  /{% endif %}{% if page.title != null %} {{page.title}}{% endif %}</div>
+
+
   <article class="post-content">
-    {% include menu.html %}
     {{ content }}
   </article>
 

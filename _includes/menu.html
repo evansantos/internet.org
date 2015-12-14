@@ -1,7 +1,15 @@
       <div class="trigger">
-          <a class="page-link" href="{{ site.baseurl }}/">{{ site.title }}</a>
+        <span class="fa-stack fa-lg" style="font-size: 14px;">
+          <i class="fa fa-circle-o fa-stack-2x"></i>
+          <i class="fa fa-list-ul fa-stack-1x"></i>
+        </span>
+        <a class="page-link" href="{{ site.baseurl }}/">{{ site.title }}</a>
         {% for page in site.pages %}
           {% if page.tag contains 'menu' %}
+          <span class="fa-stack fa-lg" style="font-size: 14px;">
+            <i class="fa fa-circle-o fa-stack-2x"></i>
+            <i class="fa fa-user fa-stack-1x"></i>
+          </span>
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}

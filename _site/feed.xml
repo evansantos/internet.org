@@ -6,9 +6,9 @@
 </description>
     <link>http://gpechim.github.io/internet.org/</link>
     <atom:link href="http://gpechim.github.io/internet.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 19 Aug 2015 18:56:51 -0300</pubDate>
-    <lastBuildDate>Wed, 19 Aug 2015 18:56:51 -0300</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <pubDate>Mon, 14 Dec 2015 01:49:02 -0200</pubDate>
+    <lastBuildDate>Mon, 14 Dec 2015 01:49:02 -0200</lastBuildDate>
+    <generator>Jekyll v3.0.0</generator>
     
       <item>
         <title>Post 1 - Transporte Público</title>
@@ -18,7 +18,7 @@
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;c1&quot;&gt;### any text&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;c1&quot;&gt;### any text&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
@@ -27,8 +27,16 @@
         <link>http://gpechim.github.io/internet.org/br/sao-paulo/transporte-publico/post-1</link>
         <guid isPermaLink="true">http://gpechim.github.io/internet.org/br/sao-paulo/transporte-publico/post-1</guid>
         
+        <category>citybrsp</category>
+        
+        
+        <category>br</category>
         
         <category>transporte-publico</category>
+        
+        <category>São Paulo</category>
+        
+        <category>Transporte Público</category>
         
       </item>
     
@@ -40,7 +48,7 @@
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;c1&quot;&gt;### any text&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;c1&quot;&gt;### any text&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
@@ -49,8 +57,16 @@
         <link>http://gpechim.github.io/internet.org/br/sao-paulo/transporte-alternativo/post-1</link>
         <guid isPermaLink="true">http://gpechim.github.io/internet.org/br/sao-paulo/transporte-alternativo/post-1</guid>
         
+        <category>citybrsp</category>
+        
+        
+        <category>br</category>
         
         <category>transporte-alternativo</category>
+        
+        <category>São Paulo</category>
+        
+        <category>Transporte Alternativo</category>
         
       </item>
     
@@ -62,7 +78,7 @@
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;c1&quot;&gt;### any text&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;c1&quot;&gt;### any text&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
@@ -71,8 +87,16 @@
         <link>http://gpechim.github.io/internet.org/br/sao-paulo/lazer/post-1</link>
         <guid isPermaLink="true">http://gpechim.github.io/internet.org/br/sao-paulo/lazer/post-1</guid>
         
+        <category>citybrsp</category>
+        
+        
+        <category>br</category>
         
         <category>lazer</category>
+        
+        <category>São Paulo</category>
+        
+        <category>Lazer</category>
         
       </item>
     
@@ -80,14 +104,14 @@
         <title>Post 1 - Fique Ligado</title>
         <description>&lt;h1 id=&quot;post---fique-ligado&quot;&gt;Post - Fique Ligado!&lt;/h1&gt;
 
-&lt;p&gt;You shall not find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, 
+&lt;p&gt;You shall not find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways,
 &lt;img src=&quot;http://www.easytaxi.com/wp-content/uploads/2015/03/for-passengers.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and &lt;strong&gt;auto&lt;/strong&gt;-&lt;em&gt;regenerates&lt;/em&gt; your site when a file is updated.&lt;/p&gt;
 
 &lt;h2 id=&quot;any-text&quot;&gt;Any text&lt;/h2&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can 
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can
 &lt;img src=&quot;http://www.easytaxi.com/wp-content/uploads/2015/03/for-passengers.jpg&quot; alt=&quot;alt text&quot; /&gt;
 ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
@@ -96,8 +120,16 @@ ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jeky
         <link>http://gpechim.github.io/internet.org/br/sao-paulo/fique-ligado/post-1</link>
         <guid isPermaLink="true">http://gpechim.github.io/internet.org/br/sao-paulo/fique-ligado/post-1</guid>
         
+        <category>citybrsp</category>
+        
+        
+        <category>br</category>
         
         <category>fique-ligado</category>
+        
+        <category>São Paulo</category>
+        
+        <category>Fique Ligado</category>
         
       </item>
     

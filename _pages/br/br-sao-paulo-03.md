@@ -4,22 +4,16 @@ title: Lazer
 permalink: /br/sao-paulo/lazer/
 tag: [citybrsp]
 category: São Paulo
-image: http://placehold.it/300x300
+image:  http://placehold.it/175x175
 ---
 
 <div class="home">
 
-  <h1 class="page-heading">{{ page.category }} / {{ page.title }}</h1>
-  <hr><br>
-
   <ul class="post-list">
     {% for post in site.posts %}
-      {% if post.categories contains 'lazer' %}
+      {% if post.categories contains 'lazer' and post.tag contains 'citybrsp' %}
       <li>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">+ {{ post.title }}</a>
       </li>
       {% endif %}
     {% endfor %}

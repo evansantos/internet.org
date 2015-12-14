@@ -2,8 +2,11 @@
 layout: post
 title:  "Post 1 - Transporte Público"
 date:   2015-08-08
+tag: [citybrsp]
 categories:
 - transporte-publico
+- São Paulo
+- Transporte Público
 permalink: /br/sao-paulo/transporte-publico/post-1
 ---
 

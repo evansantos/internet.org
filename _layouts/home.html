@@ -1,16 +1,20 @@
 ---
 layout: default
 ---
-  <header class="post-header">
-    <h2 class="">Escolha sua cidade</h2>
-    <hr>
-  </header>
-
-<div class="">
+<div class="menu">
+  <span class="fa-stack fa-lg">
+    <i class="fa fa-circle-o fa-stack-2x"></i>
+    <i class="fa fa-map-marker fa-stack-1x"></i>
+  </span>
+  Escolha sua cidade
+</div>
+<ul class="city-list">
 {% for page in site.pages %}
   {% if page.tag contains 'citybr' %}
-  <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a><br>
+  <li>
+    + <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+  </li>
   {% endif %}
 {% endfor %}
 
-</div>
+</ul>
