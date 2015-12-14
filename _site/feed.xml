@@ -4,33 +4,45 @@
     <title>Home</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
+<<<<<<< HEAD
     <link>http://gpechim.github.io/internet.org/</link>
     <atom:link href="http://gpechim.github.io/internet.org/feed.xml" rel="self" type="application/rss+xml"/>
     <pubDate>Mon, 14 Dec 2015 01:45:21 -0200</pubDate>
     <lastBuildDate>Mon, 14 Dec 2015 01:45:21 -0200</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
+=======
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 03 Dec 2015 16:07:06 +0000</pubDate>
+    <lastBuildDate>Thu, 03 Dec 2015 16:07:06 +0000</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+>>>>>>> f3dec4f0d1c2d72ef8bd6c825011ba585f74a178
     
       <item>
         <title>Post 1 - Transporte Público</title>
         <description>&lt;h2 id=&quot;post-1---transporte-pblico&quot;&gt;Post 1 - Transporte Público&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://placehold.it/300x200&quot; alt=&quot;alt text&quot; class=&quot;float-left&quot; /&gt; You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://placehold.it/300x200&quot; alt=&quot;alt text&quot; class=&quot;float-left&quot; /&gt; You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;c1&quot;&gt;### any text&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
 </description>
+<<<<<<< HEAD
         <pubDate>Sat, 08 Aug 2015 00:00:00 -0300</pubDate>
         <link>http://gpechim.github.io/internet.org/br/sao-paulo/transporte-publico/post-1</link>
         <guid isPermaLink="true">http://gpechim.github.io/internet.org/br/sao-paulo/transporte-publico/post-1</guid>
         
         <category>citybrsp</category>
+=======
+        <pubDate>Sat, 08 Aug 2015 00:00:00 +0000</pubDate>
+        <link>/br/sao-paulo/transporte-publico/post-1</link>
+        <guid isPermaLink="true">/br/sao-paulo/transporte-publico/post-1</guid>
+>>>>>>> f3dec4f0d1c2d72ef8bd6c825011ba585f74a178
         
-        
-        <category>br</category>
         
         <category>transporte-publico</category>
         
@@ -44,23 +56,27 @@
         <title>Post 1 - Transporte Alternativo</title>
         <description>&lt;h2 id=&quot;post-1---transporte-alternativo&quot;&gt;Post 1 - Transporte Alternativo&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://placehold.it/300x200&quot; alt=&quot;alt text&quot; class=&quot;float-left&quot; /&gt; You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://placehold.it/300x200&quot; alt=&quot;alt text&quot; class=&quot;float-left&quot; /&gt; You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;c1&quot;&gt;### any text&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
 </description>
+<<<<<<< HEAD
         <pubDate>Sat, 08 Aug 2015 00:00:00 -0300</pubDate>
         <link>http://gpechim.github.io/internet.org/br/sao-paulo/transporte-alternativo/post-1</link>
         <guid isPermaLink="true">http://gpechim.github.io/internet.org/br/sao-paulo/transporte-alternativo/post-1</guid>
         
         <category>citybrsp</category>
+=======
+        <pubDate>Sat, 08 Aug 2015 00:00:00 +0000</pubDate>
+        <link>/br/sao-paulo/transporte-alternativo/post-1</link>
+        <guid isPermaLink="true">/br/sao-paulo/transporte-alternativo/post-1</guid>
+>>>>>>> f3dec4f0d1c2d72ef8bd6c825011ba585f74a178
         
-        
-        <category>br</category>
         
         <category>transporte-alternativo</category>
         
@@ -74,23 +90,27 @@
         <title>Post 1 - Lazer</title>
         <description>&lt;h2 id=&quot;post-1---lazer&quot;&gt;Post 1 - Lazer&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://placehold.it/300x200&quot; alt=&quot;alt text&quot; class=&quot;float-left&quot; /&gt; You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://placehold.it/300x200&quot; alt=&quot;alt text&quot; class=&quot;float-left&quot; /&gt; You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;c1&quot;&gt;### any text&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
 </description>
+<<<<<<< HEAD
         <pubDate>Sat, 08 Aug 2015 00:00:00 -0300</pubDate>
         <link>http://gpechim.github.io/internet.org/br/sao-paulo/lazer/post-1</link>
         <guid isPermaLink="true">http://gpechim.github.io/internet.org/br/sao-paulo/lazer/post-1</guid>
         
         <category>citybrsp</category>
+=======
+        <pubDate>Sat, 08 Aug 2015 00:00:00 +0000</pubDate>
+        <link>/br/sao-paulo/lazer/post-1</link>
+        <guid isPermaLink="true">/br/sao-paulo/lazer/post-1</guid>
+>>>>>>> f3dec4f0d1c2d72ef8bd6c825011ba585f74a178
         
-        
-        <category>br</category>
         
         <category>lazer</category>
         
@@ -104,10 +124,14 @@
         <title>Post 1 - Fique Ligado</title>
         <description>&lt;h1 id=&quot;post---fique-ligado&quot;&gt;Post - Fique Ligado!&lt;/h1&gt;
 
+<<<<<<< HEAD
 &lt;p&gt;You shall not find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways,
+=======
+&lt;p&gt;You shall not find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, 
+>>>>>>> f3dec4f0d1c2d72ef8bd6c825011ba585f74a178
 &lt;img src=&quot;http://www.easytaxi.com/wp-content/uploads/2015/03/for-passengers.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and &lt;strong&gt;auto&lt;/strong&gt;-&lt;em&gt;regenerates&lt;/em&gt; your site when a file is updated.&lt;/p&gt;
+&lt;p&gt;but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and &lt;strong&gt;auto&lt;/strong&gt;-&lt;em&gt;regenerates&lt;/em&gt; your site when a file is updated.&lt;/p&gt;
 
 &lt;h2 id=&quot;any-text&quot;&gt;Any text&lt;/h2&gt;
 
@@ -116,14 +140,18 @@
 ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
 </description>
+<<<<<<< HEAD
         <pubDate>Sat, 08 Aug 2015 00:00:00 -0300</pubDate>
         <link>http://gpechim.github.io/internet.org/br/sao-paulo/fique-ligado/post-1</link>
         <guid isPermaLink="true">http://gpechim.github.io/internet.org/br/sao-paulo/fique-ligado/post-1</guid>
         
         <category>citybrsp</category>
+=======
+        <pubDate>Sat, 08 Aug 2015 00:00:00 +0000</pubDate>
+        <link>/br/sao-paulo/fique-ligado/post-1</link>
+        <guid isPermaLink="true">/br/sao-paulo/fique-ligado/post-1</guid>
+>>>>>>> f3dec4f0d1c2d72ef8bd6c825011ba585f74a178
         
-        
-        <category>br</category>
         
         <category>fique-ligado</category>
         
