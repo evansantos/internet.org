@@ -61,7 +61,7 @@ body {
     border-top: $yellow 4px solid;
     text-align: center;
     padding: 10px 0;
-    background-image: url(/images/background.png);
+    background-image: url({{ "/images/background.png" | prepend: site.baseurl }});
     background-repeat: no-repeat;
     background-size: cover;
     margin-bottom: 10px
