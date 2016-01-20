@@ -66,7 +66,9 @@ body {
     margin: 0 auto; }
     .page-content .home ul.list li {
       display: inline-block;
-      margin: 15px 14px; }
+      margin: 15px 14px 0; }
+      .page-content .home ul.list li img {
+        max-width: 105px; }
     .page-content .home ul h2 {
       position: relative;
       color: #fff;
@@ -76,22 +78,26 @@ body {
         position: absolute;
         left: 10px;
         bottom: 10px; }
-  .page-content .post .banner {
-    background-color: #ffbf2e;
-    padding: 2px;
-    width: 75%;
-    margin: 0 auto;
-    text-align: center;
-    color: #fff; }
-  .page-content .post .post-content h2 {
-    margin: 15px 0;
-    font-weight: 400; }
-  .page-content .post .post-content img.float-left {
-    float: left;
-    margin: 0 15px 15px 0; }
-  .page-content .post .post-content img.float-right {
-    float: left;
-    margin: 0 0 15px 15px; }
+  .page-content .post {
+    margin: 0 20px; }
+    .page-content .post .banner {
+      background-color: #ffbf2e;
+      padding: 2px;
+      width: 75%;
+      margin: 0 auto;
+      text-align: center;
+      color: #fff; }
+    .page-content .post .post-content h2 {
+      margin: 0;
+      font-weight: 400; }
+    .page-content .post .post-content img {
+      max-width: 150px; }
+      .page-content .post .post-content img.float-left {
+        float: left;
+        margin: 0 15px 15px 0; }
+      .page-content .post .post-content img.float-right {
+        float: left;
+        margin: 0 0 15px 15px; }
 
 footer.site-footer {
   margin: 0;
