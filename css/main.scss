@@ -103,12 +103,13 @@ body {
   ul.city-list,
   ul.post-list {
     list-style: none;
-    width: 90%;
+    width: 100%;
     height: 375px;
     margin: 0 auto;
     padding: 20px 0;
     font-size: 18px;
     overflow-y: scroll;
+    text-align: left !important;
 
     li {
       margin:15px 0;
@@ -128,13 +129,15 @@ body {
     ul{
       display: inline-block;
       margin: 0 auto;
+      text-align: center;
 
       &.list li{
         display: inline-block;
-        margin: 15px 14px 0;
+        margin: 15px 5px 0;
+        width: 45%;
 
         img {
-          max-width: 105px;
+          max-width: 100%;
         }
       }
 
@@ -148,18 +151,19 @@ body {
           position: absolute;
           left: 10px;
           bottom: 10px;
+          text-align: left;
         }
       }
     }
   }
 
   .post {
-    margin: 0 20px;
+    margin: 0 15px;
 
     .banner {
       background-color: $yellow;
       padding: 2px;
-      width: 75%;
+      width: 90%;
       margin: 0 auto;
       text-align: center;
       color: #fff;
@@ -174,15 +178,15 @@ body {
 
       img {
 
-        max-width: 150px;
+        max-width: 140px;
 
         &.float-left{
           float: left;
-          margin: 0 15px 15px 0;
+          margin: 0 10px 10px 0;
         }
         &.float-right{
           float: left;
-          margin: 0 0 15px 15px;
+          margin: 0 0 10px 10px;
         }
       }
     }
