@@ -45,12 +45,13 @@ body {
   .page-content ul.city-list,
   .page-content ul.post-list {
     list-style: none;
-    width: 90%;
+    width: 100%;
     height: 375px;
     margin: 0 auto;
     padding: 20px 0;
     font-size: 18px;
-    overflow-y: scroll; }
+    overflow-y: scroll;
+    text-align: left !important; }
     .page-content ul.city-list li,
     .page-content ul.post-list li {
       margin: 15px 0; }
@@ -63,10 +64,14 @@ body {
         color: #666; }
   .page-content .home ul {
     display: inline-block;
-    margin: 0 auto; }
+    margin: 0 auto;
+    text-align: center; }
     .page-content .home ul.list li {
       display: inline-block;
-      margin: 15px 14px; }
+      margin: 15px 5px 0;
+      width: 45%; }
+      .page-content .home ul.list li img {
+        max-width: 100%; }
     .page-content .home ul h2 {
       position: relative;
       color: #fff;
@@ -75,23 +80,28 @@ body {
       .page-content .home ul h2 span {
         position: absolute;
         left: 10px;
-        bottom: 10px; }
-  .page-content .post .banner {
-    background-color: #ffbf2e;
-    padding: 2px;
-    width: 75%;
-    margin: 0 auto;
-    text-align: center;
-    color: #fff; }
-  .page-content .post .post-content h2 {
-    margin: 15px 0;
-    font-weight: 400; }
-  .page-content .post .post-content img.float-left {
-    float: left;
-    margin: 0 15px 15px 0; }
-  .page-content .post .post-content img.float-right {
-    float: left;
-    margin: 0 0 15px 15px; }
+        bottom: 10px;
+        text-align: left; }
+  .page-content .post {
+    margin: 0 15px; }
+    .page-content .post .banner {
+      background-color: #ffbf2e;
+      padding: 2px;
+      width: 90%;
+      margin: 0 auto;
+      text-align: center;
+      color: #fff; }
+    .page-content .post .post-content h2 {
+      margin: 0;
+      font-weight: 400; }
+    .page-content .post .post-content img {
+      max-width: 140px; }
+      .page-content .post .post-content img.float-left {
+        float: left;
+        margin: 0 10px 10px 0; }
+      .page-content .post .post-content img.float-right {
+        float: left;
+        margin: 0 0 10px 10px; }
 
 footer.site-footer {
   margin: 0;
