@@ -1,19 +1,16 @@
 ---
 layout: post
-title:  "Post 1 - Transporte Público"
+title:  "Post 1 - Transporte Alternativo"
 date:   2015-08-08
 tag: [citybrsp]
 categories:
-- transporte-publico
+- transporte-alternativo
 - São Paulo
-- Transporte Público
-permalink: /br/sao-paulo/transporte-publico/post-1
+- Transporte Alternativo
+permalink: /br/sao-paulo/transporte-alternativo/post-1
 ---
 
-
-
-
-## Post 1 - Transporte Público
+## Post 1 - Transporte Alternativo
 
 ![alt text][image1]{: .float-left} You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
