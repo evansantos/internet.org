@@ -4,6 +4,9 @@
 // };
 
 module.exports = function (grunt) {
+
+  // 'use strict';
+
   grunt.initConfig({
     shell: {
       run_file:{
