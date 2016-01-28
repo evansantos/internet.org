@@ -1,10 +1,10 @@
 ---
-layout: page
-title: Transporte Público
-permalink: /br/sao-paulo/transporte-publico/
-tag: [br-sp]
-category: São Paulo
-image: http://placehold.it/175x175
+layout:     page
+permalink:  /br/sao-paulo/transporte-publico/
+title:      Transporte Público
+category:   São Paulo
+tag:        [br-sp]
+image:      /images/thumb-transporte-publico.jpg
 ---
 
 <div class="home">

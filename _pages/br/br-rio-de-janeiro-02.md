@@ -1,10 +1,10 @@
 ---
-layout: page
-title: Transporte Alternativo
-permalink: /br/rio-de-janeiro/transporte-alternativo/
-tag: [br-rj]
-category: Rio de janeiro
-image: http://placehold.it/175x175
+layout:     page
+permalink:  /br/rio-de-janeiro/transporte-alternativo/
+title:      Transporte Alternativo
+category:   Rio de janeiro
+tag:        [br-rj]
+image:      /images/thumb-transporte-alternativo.jpg
 ---
 
 <div class="home">

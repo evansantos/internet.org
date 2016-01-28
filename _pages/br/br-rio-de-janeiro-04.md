@@ -1,10 +1,10 @@
 ---
-layout: page
-title: Fique Ligado
-permalink: /br/rio-de-janeiro/fique-ligado/
-tag: [br-rj]
-category: Rio de Janeiro
-image: http://placehold.it/175x175
+layout:     page
+permalink:  /br/rio-de-janeiro/fique-ligado/
+title:      Fique Ligado
+category:   Rio de Janeiro
+tag:        [br-rj]
+image:      /images/thumb-fique-ligado.jpg
 ---
 
 <div class="home">

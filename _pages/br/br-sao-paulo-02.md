@@ -1,10 +1,10 @@
 ---
-layout: page
-title: Transporte Alternativo
-permalink: /br/sao-paulo/transporte-alternativo/
-tag: [br-sp]
-category: São Paulo
-image:  http://placehold.it/175x175
+layout:     page
+permalink:  /br/sao-paulo/transporte-alternativo/
+title:      Transporte Alternativo
+category:   São Paulo
+tag:        [br-sp]
+image:      /images/thumb-transporte-alternativo.jpg
 ---
 
 <div class="home">

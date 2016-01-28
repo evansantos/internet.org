@@ -1,10 +1,10 @@
 ---
-layout: page
-title: Lazer
-permalink: /br/rio-de-janeiro/lazer/
-tag: [br-rj]
-category: Rio de Janeiro
-image: http://placehold.it/175x175
+layout:     page
+permalink:  /br/rio-de-janeiro/lazer/
+title:      Lazer
+category:   Rio de Janeiro
+tag:        [br-rj]
+image:      /images/thumb-lazer.jpg
 ---
 
 <div class="home">

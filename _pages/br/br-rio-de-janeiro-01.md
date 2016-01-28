@@ -1,10 +1,10 @@
 ---
-layout: page
-title: Transporte Público
-tag: [br-rj]
-category: Rio de Janeiro
-permalink: /br/rio-de-janeiro/transporte-publico
-image: http://placehold.it/175x175
+layout:     page
+permalink:  /br/rio-de-janeiro/transporte-publico/
+title:      Transporte Público
+category:   Rio de Janeiro
+tag:        [br-rj]
+image:      /images/thumb-transporte-publico.jpg
 ---
 
 <div class="home">

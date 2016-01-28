@@ -1,10 +1,10 @@
 ---
-layout: page
-title: Lazer
-permalink: /br/sao-paulo/lazer/
-tag: [br-sp]
-category: São Paulo
-image:  http://placehold.it/175x175
+layout:     page
+permalink:  /br/sao-paulo/lazer/
+title:      Lazer
+category:   São Paulo
+tag:        [br-sp]
+image:      /images/thumb-lazer.jpg
 ---
 
 <div class="home">
