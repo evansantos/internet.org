@@ -4,7 +4,7 @@ title: Rio de Janeiro
 permalink: /br/rio-de-janeiro/
 tag: [br-city]
 ---
-
+{% include base.html %}
 <div class="home">
   <ul class="list">
   {% for page in site.pages %}
@@ -12,7 +12,7 @@ tag: [br-city]
     <li>
       <h2>
         <span>{{ page.title }}</span>
-        <a class="post-link" href="{{ page.url | prepend: site.baseurl }}"><img src="{{ page.image }}"></a>
+        <a class="post-link" href="{{ page.url | prepend: site.baseurl }}"><img src="{{ base }}{{ page.image }}"></a>
       </h2>
     </li>
     {% endif %}

@@ -2,7 +2,7 @@
 
 # Deploy Script
 # Author: Gerson Pechim <gerson.pechim@easytaxi.com.br>, Evandro Santos <evandro.santos@easytaxi.com.br>
-# Updated At: 2015-08-07
+# Updated At: 2016-01-28
 
 DATE=$(date +"%Y%m%d_%H%M%S")
 HOUR=$(date +"%H:%M:%S")
@@ -24,13 +24,3 @@ git push
 echo '--------------------------------------------------------------------';
 echo 'Build complete at '$HOUR'!! _site packaged sent to git! WHORRAY!!!';
 echo '--------------------------------------------------------------------';
-
-# grunt dev
-# node
-# echo"
-#     var conf = grunt.file.readYAML('_config.yml');
-#     conf.baseurl = '';
-#     conf.url = '';
-#     YAML = require('yamljs');
-#     grunt.file.write('_config.yml', YAML.stringify(conf));
-# ";
