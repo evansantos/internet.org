@@ -1,6 +1,6 @@
 ---
 layout:     post
-permalink:  /br/:categories/:title
+permalink:  /br/lazer/principais-pontos-turisticos-no-rio-de-janeiro
 
 title:      Principais pontos turísticos no Rio de Janeiro
 date:       2016-01-22

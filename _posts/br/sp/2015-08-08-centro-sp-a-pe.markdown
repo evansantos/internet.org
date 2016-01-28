@@ -1,6 +1,6 @@
 ---
 layout:     post
-permalink:  /sp/:categories/:title
+permalink:  /sp/transporte-alternativo/como-explorar-o-centro-de-sao-paulo-a-pe
 
 title:      Como explorar o centro de São Paulo a pé
 date:       2016-01-05

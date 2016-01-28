@@ -1,6 +1,6 @@
 ---
 layout:     post
-permalink:  /sp/:categories/:title
+permalink:  /sp/transporte-publico/como-ir-do-aeroporto-de-guarulhos-para-o-centro-de-sao-paulo
 
 title:      Como ir do aeroporto de Guarulhos para o centro de São Paulo
 date:       2016-01-10

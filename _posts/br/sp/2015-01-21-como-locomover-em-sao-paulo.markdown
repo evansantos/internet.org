@@ -1,6 +1,6 @@
 ---
 layout:     post
-permalink:  /sp/:categories/:title
+permalink:  /sp/transporte-publico/transporte-publico-em-sao-paulo
 
 title:      Transporte Público em São Paulo
 date:       2016-01-10

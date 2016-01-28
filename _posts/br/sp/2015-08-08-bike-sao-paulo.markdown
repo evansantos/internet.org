@@ -1,6 +1,6 @@
 ---
 layout:     post
-permalink:  /sp/:categories/:title
+permalink:  /sp/transporte-alternativo/transporte-alternativo
 
 title:      Transporte Alternativo
 date:       2015-08-08

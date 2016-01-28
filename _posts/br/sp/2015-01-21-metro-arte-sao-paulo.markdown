@@ -1,6 +1,6 @@
 ---
 layout:     post
-permalink:  /sp/:categories/:title
+permalink:  /sp/transporte-publico/embarque-no-metro-e-descubra-um-mundo-de-atracoes
 
 title:      Embarque no Metrô e descubra um mundo de atrações
 date:       2016-01-10
