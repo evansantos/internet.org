@@ -7,6 +7,6 @@ twitter_username: jekyllrb
 github_username: jekyll
 include:
     - _pages
-permalink: '/:categories/:title'
+permalink: '/:categories/:title/'
 markdown: kramdown
 regenerate: true
