@@ -17,7 +17,7 @@ echo '--------------------------------------------------------------------';
 
 # Generate packaged and run deploy
 jekyll build
-git add
+git add -A
 git commit -m 'Deploy '$DATE''
 git push
 
