@@ -4,7 +4,7 @@ permalink:  /br/rio-de-janeiro/transporte-publico/
 title:      Transporte Público
 category:   Rio de Janeiro
 tag:        [br-rj]
-image:      /images/thumb-transporte-alternativo.jpg
+image:      /images/thumb-transporte-publico.jpg
 ---
 <div class="home">
   <ul class="post-list">

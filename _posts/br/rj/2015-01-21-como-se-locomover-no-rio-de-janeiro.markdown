@@ -30,7 +30,7 @@ Confira abaixo algumas imagens da cidade maravilhosa.
 ![alt text][image3]
 
 
-![My helpful screenshot]({{ site.url }}/images/post/test.jpg)
+![test]({{ site.url }}/images/post/test.jpg)
 
 
 
