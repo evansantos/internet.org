@@ -12,7 +12,7 @@ tag: [br-city]
     <li>
       <h2>
         <span>{{ page.title }}</span>
-        <a class="post-link" href="{{ page.url | prepend: site.baseurl }}"><img src="{{ base }}{{ page.image' }}"></a>
+        <a class="post-link" href="{{ page.url | prepend: site.baseurl }}"><img src="{{ base }}{{ page.image }}"></a>
       </h2>
     </li>
     {% endif %}
