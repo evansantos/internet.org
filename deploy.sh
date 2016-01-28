@@ -25,7 +25,7 @@ echo '--------------------------------------------------------------------';
 echo 'Build complete at '$HOUR'!! _site packaged sent to git! WHORRAY!!!';
 echo '--------------------------------------------------------------------';
 
-grunt dev
+# grunt dev
 # node
 # echo"
 #     var conf = grunt.file.readYAML('_config.yml');
