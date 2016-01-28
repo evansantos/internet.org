@@ -1,6 +1,6 @@
 ---
 layout:     post
-permalink:  /br/:categories/:title
+permalink:  /br/transporte-publico/vai-para-o-rio-confira-aqui-os-transportes-cariocas
 
 title:      Vai para o Rio? Confira aqui os transportes cariocas
 date:       2016-01-10
