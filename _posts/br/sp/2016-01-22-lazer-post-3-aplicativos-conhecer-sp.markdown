@@ -1,10 +1,8 @@
 ---
 layout:     post
 permalink:  /sp/lazer/os-aplicativos-que-vao-te-ajudar-a-conhecer-sao-paulo
-
 title:      Os aplicativos que vão te ajudar a conhecer São Paulo
 date:       2016-01-22
-
 categories: [lazer]
 tag:        [br-sp]
 ---

@@ -1,10 +1,8 @@
 ---
 layout:     post
 permalink:  /sp/transporte-publico/transporte-publico-em-sao-paulo
-
 title:      Transporte Público em São Paulo
-date:       2016-01-10
-
+date:       2015-01-21
 categories: [transporte-publico]
 tag:        [br-sp]
 ---

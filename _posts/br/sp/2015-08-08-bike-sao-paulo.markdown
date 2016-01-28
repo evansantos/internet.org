@@ -1,10 +1,8 @@
 ---
 layout:     post
 permalink:  /sp/transporte-alternativo/transporte-alternativo
-
 title:      Transporte Alternativo
 date:       2015-08-08
-
 categories: [transporte-alternativo, São Paulo, Transporte Alternativo]
 tag:        [br-sp]
 ---

@@ -6,8 +6,8 @@
 </description>
     <link>http://gpechim.github.io/internet.org/</link>
     <atom:link href="http://gpechim.github.io/internet.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 Jan 2016 20:33:29 -0200</pubDate>
-    <lastBuildDate>Thu, 28 Jan 2016 20:33:29 -0200</lastBuildDate>
+    <pubDate>Thu, 28 Jan 2016 20:44:24 -0200</pubDate>
+    <lastBuildDate>Thu, 28 Jan 2016 20:44:24 -0200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -175,6 +175,124 @@ O programa foi idealizado pela Prefeitura de São Paulo em conjunto com a Brades
       </item>
     
       <item>
+        <title>Como explorar o centro de São Paulo a pé</title>
+        <description>&lt;h2 id=&quot;como-explorar-o-centro-de-so-paulo-a-p&quot;&gt;Como explorar o centro de São Paulo a pé.&lt;/h2&gt;
+
+&lt;p&gt;Apesar de São Paulo ser uma grande cidade, podemos explorar alguns bairros a pé. &lt;em&gt;Dizem que para você realmente conhecer uma cidade, você precisa andar nela a pé.&lt;/em&gt; Vocé precisa trocar olhares com outros cidadãos, reparar nos detalhes da arte de rua, e por fim,  &lt;em&gt;sentir a cidade.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://media2.popsugar-assets.com/files/2014/06/10/933/n/1922398/1e97c938e11981d6_450382556_10.xxxlarge_2x/i/woman-walked-past-colorful-graffiti-wall-marked.jpg&quot; alt=&quot;alt text&quot; /&gt;
+O centro histórico de São Paulo é um dos lugares mais movimentados da capital. Certamente, sua visita por São Paulo deve incluir um passeio pelo centro. Aqui, vamos te dar uma sugestão de roteiro e dicas para você conhecer o centro de São Paulo a pé.&lt;/p&gt;
+
+&lt;p&gt;Comece pelo Pátio do Colégio. Na sequência, vá ao Solar da Marquesa, à Praça da Sé e, então, ao Largo da Misericórdia. Todo esse percurso vai te levar em uma viagem histórica, na São Paulo do século passado. Passando pelo Viaduto do Chá, aprecie a primeira sede da prefeitura de São Paulo, o famoso Edifício Matarazzo. 
+&lt;img src=&quot;http://msalx.vejasp.abril.com.br/2015/04/30/1633/jYQci/mapa_arquitetonico_layers_.jpeg?1430422509&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Distância estimada deste percurso: 3km.
+Tempo estimado para o passeio: 2h30.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Se você ainda estiver com fôlego, vale a pena dar uma olhada nas atrações turísticas listadas abaixo:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Praça da Sé - a praça mais famosa do centro de São Paulo. Conta com uma igreja e as mostras gratuitas da Caixa Cultural.&lt;/li&gt;
+  &lt;li&gt;Largo São Francisco - o principal conjunto barroco de São Paulo.&lt;/li&gt;
+  &lt;li&gt;Teatro Municipal - o principal palco para receber a arte, o teatro, a música de diferentes partes do mundo&lt;/li&gt;
+  &lt;li&gt;Basílica de São Bento - vale a pena conferir no domingo, às 10h, sua missa com canto gregoriano.&lt;/li&gt;
+  &lt;li&gt;Centro Cultural do Banco do Brasil - sempre recebe exposições incríveis. Além disso, a arquitetura do Centro Cultural do Banco do Brasil é interessante, trazendo traços da cultura européia.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Aproveite o seu passeio descobrindo cores na conhecida &lt;em&gt;cidade cinza&lt;/em&gt;, a deslumbrante capital paulista.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 08 Aug 2015 00:00:00 -0300</pubDate>
+        <link>http://gpechim.github.io/internet.org/sp/transporte-alternativo/como-explorar-o-centro-de-sao-paulo-a-pe</link>
+        <guid isPermaLink="true">http://gpechim.github.io/internet.org/sp/transporte-alternativo/como-explorar-o-centro-de-sao-paulo-a-pe</guid>
+        
+        <category>br-sp</category>
+        
+        
+        <category>transporte-alternativo</category>
+        
+      </item>
+    
+      <item>
+        <title>Transporte Alternativo</title>
+        <description>&lt;h2 id=&quot;transporte-alternativo&quot;&gt;Transporte Alternativo&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://placehold.it/300x200&quot; alt=&quot;alt text&quot; class=&quot;float-left&quot; /&gt; You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;c1&quot;&gt;### any text&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 08 Aug 2015 00:00:00 -0300</pubDate>
+        <link>http://gpechim.github.io/internet.org/sp/transporte-alternativo/transporte-alternativo</link>
+        <guid isPermaLink="true">http://gpechim.github.io/internet.org/sp/transporte-alternativo/transporte-alternativo</guid>
+        
+        <category>br-sp</category>
+        
+        
+        <category>transporte-alternativo</category>
+        
+        <category>São Paulo</category>
+        
+        <category>Transporte Alternativo</category>
+        
+      </item>
+    
+      <item>
+        <title>Não tem bike? Conheça o BikeRio</title>
+        <description>&lt;h2 id=&quot;no-tem-bike-conhea-o-bikerio&quot;&gt;Não tem bike? Conheça o BikeRio.&lt;/h2&gt;
+
+&lt;p&gt;Uma ótima opção para passear pelo Rio de Janeiro é a bicicleta.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bike_Rio_11_2012_4455.jpg/640px-Bike_Rio_11_2012_4455.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;bikerio-&quot;&gt;BikeRio ♻&lt;/h3&gt;
+&lt;p&gt;Para melhorar a mobilidade urbana carioca, a Prefeitura do Rio de Janeiro em parceria com o sistema SAMBA desenvolveu o &lt;a href=&quot;http://www.mobilicidade.com.br/bikerio.asp&quot;&gt;BikeRio&lt;/a&gt;, que disponibiliza bicicletas para os cidadãos e turistas do Rio de Janeiro.&lt;/p&gt;
+
+&lt;p&gt;O BikeRio conta com inúmeras estações no Rio de Janeiro, as quais os usuários cadastrados podem retirar uma bicicleta, percorrer seu trajeto e, assim, devolvê-la em qualquer outra estação. Ou seja, o BikeRio te permite alugar uma bicicleta temporariamente, sem ter a preocupação de devolvê-la no mesmo local. 
+&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/b/b3/Bike_Rio_01_2013_5427.JPG&quot; alt=&quot;alt&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Hoje, o BikeRio já possibilitou &lt;strong&gt;mais de 7 milhões de viagens e evitou a emissão de mais de 3000 toneladas de carbono.&lt;/strong&gt; Para se tornar um usuário do BikeRio, basta seguir os passos abaixo:&lt;/p&gt;
+
+&lt;h4 id=&quot;passe-dirio---custo-de-r500-para-24h-de-uso&quot;&gt;Passe Diário - custo de R$5,00 para 24h de uso.&lt;/h4&gt;
+&lt;p&gt;O passe diário é uma ótima opção para quem vai visitar o Rio de Janeiro por um curto período de tempo. Para realizar se tornar um usuário, basta seguir os passos a seguir:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ligue do seu telefone celular para o número &lt;strong&gt;4003-6054.&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Realize o seu cadastro.&lt;/li&gt;
+  &lt;li&gt;Procure a estação BikeRio mais próxima.&lt;/li&gt;
+  &lt;li&gt;Retire a bicicleta desejada.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;passe-mensal---custo-de-r1000-vlido-por-30-dias&quot;&gt;Passe Mensal - custo de R$10,00 válido por 30 dias.&lt;/h4&gt;
+&lt;p&gt;O passe mensal é uma opção vantajosa para quem pretende alugar a bicicleta por mais de um dia. Para realizar o seu cadastro, siga os passos abaixo:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Acesse o site &lt;a href=&quot;http://www.mobilicidade.com.br/bikerio.asp&quot;&gt;BikeRio&lt;/a&gt; e &lt;strong&gt;clique na opção “cadastre-se”.&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Clique no Menu “comprar passe”, leia as instruções de uso, confirme seu passe mensal e informe os dados do seu cartão de crédito.&lt;/li&gt;
+  &lt;li&gt;Veja no mapa do site a localização das estações de aluguel e dirija-se a qualquer uma delas para retirar bicicletas, usando o telefone celular informado no cadastro.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Pronto! Agora confira abaixo algumas fotos do BikeRIo ;).&lt;/em&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 08 Aug 2015 00:00:00 -0300</pubDate>
+        <link>http://gpechim.github.io/internet.org/br/transporte-alternativo/nao-tem-bike-conheca-o-bikerio</link>
+        <guid isPermaLink="true">http://gpechim.github.io/internet.org/br/transporte-alternativo/nao-tem-bike-conheca-o-bikerio</guid>
+        
+        <category>br-rj</category>
+        
+        
+        <category>transporte-alternativo</category>
+        
+      </item>
+    
+      <item>
         <title>Como andar de ônibus em São Paulo</title>
         <description>&lt;h1 id=&quot;saiba-como-andar-de-nibus-em-so-paulo&quot;&gt;Saiba como andar de ônibus em São Paulo&lt;/h1&gt;
 
@@ -204,7 +322,7 @@ Para saber mais detalhes de como emitir o seu primeiro [bilhete único], confira
 &lt;/div&gt;
 
 </description>
-        <pubDate>Sun, 10 Jan 2016 00:00:00 -0200</pubDate>
+        <pubDate>Wed, 21 Jan 2015 00:00:00 -0200</pubDate>
         <link>http://gpechim.github.io/internet.org/sp/transporte-publico/como-andar-de-onibus-em-sao-paulo</link>
         <guid isPermaLink="true">http://gpechim.github.io/internet.org/sp/transporte-publico/como-andar-de-onibus-em-sao-paulo</guid>
         
@@ -264,7 +382,7 @@ Confira nas imagens abaixo como esse projeto está hoje ;).&lt;/p&gt;
 &lt;/div&gt;
 
 </description>
-        <pubDate>Sun, 10 Jan 2016 00:00:00 -0200</pubDate>
+        <pubDate>Wed, 21 Jan 2015 00:00:00 -0200</pubDate>
         <link>http://gpechim.github.io/internet.org/sp/transporte-publico/embarque-no-metro-e-descubra-um-mundo-de-atracoes</link>
         <guid isPermaLink="true">http://gpechim.github.io/internet.org/sp/transporte-publico/embarque-no-metro-e-descubra-um-mundo-de-atracoes</guid>
         
@@ -293,7 +411,7 @@ Já o sistema de ônibus é composto por uma rede de linhas integrada, construí
 &lt;p&gt;&lt;img src=&quot;http://www.cptm.sp.gov.br/Style%20Library/Images/publicidade/mapa_da_rede.png&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 10 Jan 2016 00:00:00 -0200</pubDate>
+        <pubDate>Wed, 21 Jan 2015 00:00:00 -0200</pubDate>
         <link>http://gpechim.github.io/internet.org/sp/transporte-publico/transporte-publico-em-sao-paulo</link>
         <guid isPermaLink="true">http://gpechim.github.io/internet.org/sp/transporte-publico/transporte-publico-em-sao-paulo</guid>
         
@@ -301,144 +419,6 @@ Já o sistema de ônibus é composto por uma rede de linhas integrada, construí
         
         
         <category>transporte-publico</category>
-        
-      </item>
-    
-      <item>
-        <title>Como ir do aeroporto de Guarulhos para o centro de São Paulo</title>
-        <description>&lt;h1 id=&quot;como-ir-do-aeroporto-de-guarulhos-para-o-centro-de-so-paulo&quot;&gt;Como ir do aeroporto de Guarulhos para o centro de São Paulo&lt;/h1&gt;
-
-&lt;p&gt;O aeroporto de Guarulhos está localizado na região metropolitana de São Paulo, sendo um pouco distante do centro da cidade. Esse aeroporto é a principal porta de entrada para a cidade de São Paulo e é conhecido principalmente pelos seus voos internacionais. 
-&lt;img src=&quot;http://www.viajecomigo.tur.br/wp-content/uploads/2015/11/GRU1.jpg&quot; alt=&quot;alt&quot; /&gt;
-Nesse artigo você vai descobrir maneiras de como ir do Aeroporto de Guarulhos para o centro de São Paulo.&lt;/p&gt;
-
-&lt;h3 id=&quot;nibus-urbano--metr&quot;&gt;Ônibus Urbano + Metrô&lt;/h3&gt;
-&lt;p&gt;O melhor custo benefício é a &lt;strong&gt;escolha de um ônibus urbano + metrô.&lt;/strong&gt; Seguem os detalhes dessa opção:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Pegar o Airport Bus Service na área de desembarque do Aeroporto de Guarulhos. Este ônibus terá como destino final a estação Tatuapé do Metrô, os Terminais Rodoviários do Tietê ou da Barra Funda. Assim, escolha o próximo destino que for melhor para a sua comodidade.&lt;/li&gt;
-  &lt;li&gt;Desembarque e pegue o metrõ ou ônibus para o seu destino final.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;strong&gt;Custo Total desta opção&lt;/strong&gt;
-Custo total desta opção: R$4,45 (Airport Bus Service) + R$3,80 (Metrô ou Ônibus) = R$8,25
-&lt;strong&gt;Tempo médio desta opção&lt;/strong&gt;
-Tempo estimado: 1h40.&lt;/p&gt;
-
-&lt;h3 id=&quot;nibus-executivo&quot;&gt;Ônibus Executivo&lt;/h3&gt;
-&lt;p&gt;Há muitas empresas de ônibus que realizam o transporte executivo até o aeroporto de Guarulhos. Contudo, esta opção é mais cara que a opção anterior, pois os ônibus oferecem maior conforto ao passageiro.&lt;/p&gt;
-
-&lt;p&gt;A empresa mais conhecida é a Airport Bus Service. Os seus ônibus partem da área de desembarque do Aeroporto Internacional de Guarulhos e têm diversas opções como destino final: Aeroporto de Congonhas, Praça de república, Terminal Rodoviário do Tietê e da Barra Funda, Itaim Bibi, Circuito dos Hotéis Paulista/Augusta e Metrô Tatuapé. 
-&lt;em&gt;Resumindo:&lt;/em&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Custo total do transporte:&lt;/strong&gt; entre R$42,00 e R$45,00, varia de acordo com o seu destino final.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Tempo estimado:&lt;/strong&gt; 55 minutos.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;txi&quot;&gt;Táxi&lt;/h3&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Que tal não pagar a taxa de 50% nas corridas de táxi de São Paulo até o aeroporto de Guarulhos?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Com o Easy Taxi, você consegue ir para o Aeroporto de Guarulhos sem a cobrança da taxa de 50% de troca de município.  Siga o passo a passo abaixo:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Baixe o aplicativo da Easy Taxi no seu celular.&lt;/li&gt;
-  &lt;li&gt;Clique em “pedir táxi”.&lt;/li&gt;
-  &lt;li&gt;Clique em opções → GRU 50% OFF.&lt;/li&gt;
-  &lt;li&gt;Pronto, seu táxi está a caminho.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://scontent.frao1-1.fna.fbcdn.net/hphotos-xfa1/v/t1.0-9/1655831_931647830203716_2754583179881259942_n.png?oh=0bde2d68c2fdbd1fea496a8e9e986384&amp;amp;oe=5726C220&quot; alt=&quot;alt&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 10 Jan 2016 00:00:00 -0200</pubDate>
-        <link>http://gpechim.github.io/internet.org/sp/transporte-publico/como-ir-do-aeroporto-de-guarulhos-para-o-centro-de-sao-paulo</link>
-        <guid isPermaLink="true">http://gpechim.github.io/internet.org/sp/transporte-publico/como-ir-do-aeroporto-de-guarulhos-para-o-centro-de-sao-paulo</guid>
-        
-        <category>br-sp</category>
-        
-        
-        <category>transporte-publico</category>
-        
-      </item>
-    
-      <item>
-        <title>Vai para o Rio? Confira aqui os transportes cariocas</title>
-        <description>&lt;h2 id=&quot;vai-para-o-rio-confira-aqui-os-meios-de-transporte-carioca&quot;&gt;Vai para o Rio? Confira aqui os meios de transporte carioca.&lt;/h2&gt;
-
-&lt;p&gt;Cidade maravilhosa, cheia de encantos mil. Para descobrir a beleza do Rio de Janeiro, escolha o transporte certo que te permita sentir essa cidade.&lt;/p&gt;
-
-&lt;p&gt;O Rio de Janeiro é a mistura da praia com a cidade, representado pela combinação da bicicleta com o carro. Apesar de cômodo, andar de carro não é sempre fácil, há sempre o trânsito e a dificuldade em achar uma vaga. Por outro lado, os ônibus são um pouco caóticos para turistas de primeira viagem na cidade carioca. Isso porque é complicado entender as rotas e itinerários das linhas de ônibus.&lt;/p&gt;
-
-&lt;p&gt;Então, &lt;strong&gt;qual seria a melhor alternativa para conhecer a cidade maravilhosa?&lt;/strong&gt; Talvez, uma mistura de transporte público, transporte alternativo e transporte privado seja a solução ideal. Intercale caminhadas com o metrô, corridas de táxi com passeios de bike, e assim, sinta a cidade maravilhosa.&lt;/p&gt;
-
-&lt;p&gt;Combine caminhadas com o metrô e corridas de táxi ocasionalmente que você estará bem servido. Não hesite em pedir informações caso tenha dúvidas, os cariocas gostam de ajudar e estão sempre prontos a dar informações. Para circular pela zona sul, as bicicletas são uma excelente alternativa!&lt;/p&gt;
-
-&lt;p&gt;Confira abaixo algumas imagens da cidade maravilhosa. 
-*Ciclovia da Avenida Niemeyer. *
-&lt;img src=&quot;http://s2.glbimg.com/9XuIGVBC_E-dY2VPOqlNGA8IM00=/top/i.glbimg.com/og/ig/infoglobo1/f/original/2016/01/05/nie.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;*Calçadão do Arpoador. *
-&lt;img src=&quot;http://v.i.uol.com.br/album/guia/riodejaneiro_f_040.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;*Ônibus Elétrico no Aterro do Flamengo. *
-&lt;img src=&quot;http://www.rio.rj.gov.br/igstatic/46/64/94/4664943.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://gpechim.github.io/images/post/test.jpg&quot; alt=&quot;test&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 10 Jan 2016 00:00:00 -0200</pubDate>
-        <link>http://gpechim.github.io/internet.org/br/transporte-publico/vai-para-o-rio-confira-aqui-os-transportes-cariocas</link>
-        <guid isPermaLink="true">http://gpechim.github.io/internet.org/br/transporte-publico/vai-para-o-rio-confira-aqui-os-transportes-cariocas</guid>
-        
-        <category>br-rj</category>
-        
-        
-        <category>transporte-publico</category>
-        
-      </item>
-    
-      <item>
-        <title>Como explorar o centro de São Paulo a pé</title>
-        <description>&lt;h2 id=&quot;como-explorar-o-centro-de-so-paulo-a-p&quot;&gt;Como explorar o centro de São Paulo a pé.&lt;/h2&gt;
-
-&lt;p&gt;Apesar de São Paulo ser uma grande cidade, podemos explorar alguns bairros a pé. &lt;em&gt;Dizem que para você realmente conhecer uma cidade, você precisa andar nela a pé.&lt;/em&gt; Vocé precisa trocar olhares com outros cidadãos, reparar nos detalhes da arte de rua, e por fim,  &lt;em&gt;sentir a cidade.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://media2.popsugar-assets.com/files/2014/06/10/933/n/1922398/1e97c938e11981d6_450382556_10.xxxlarge_2x/i/woman-walked-past-colorful-graffiti-wall-marked.jpg&quot; alt=&quot;alt text&quot; /&gt;
-O centro histórico de São Paulo é um dos lugares mais movimentados da capital. Certamente, sua visita por São Paulo deve incluir um passeio pelo centro. Aqui, vamos te dar uma sugestão de roteiro e dicas para você conhecer o centro de São Paulo a pé.&lt;/p&gt;
-
-&lt;p&gt;Comece pelo Pátio do Colégio. Na sequência, vá ao Solar da Marquesa, à Praça da Sé e, então, ao Largo da Misericórdia. Todo esse percurso vai te levar em uma viagem histórica, na São Paulo do século passado. Passando pelo Viaduto do Chá, aprecie a primeira sede da prefeitura de São Paulo, o famoso Edifício Matarazzo. 
-&lt;img src=&quot;http://msalx.vejasp.abril.com.br/2015/04/30/1633/jYQci/mapa_arquitetonico_layers_.jpeg?1430422509&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Distância estimada deste percurso: 3km.
-Tempo estimado para o passeio: 2h30.
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Se você ainda estiver com fôlego, vale a pena dar uma olhada nas atrações turísticas listadas abaixo:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Praça da Sé - a praça mais famosa do centro de São Paulo. Conta com uma igreja e as mostras gratuitas da Caixa Cultural.&lt;/li&gt;
-  &lt;li&gt;Largo São Francisco - o principal conjunto barroco de São Paulo.&lt;/li&gt;
-  &lt;li&gt;Teatro Municipal - o principal palco para receber a arte, o teatro, a música de diferentes partes do mundo&lt;/li&gt;
-  &lt;li&gt;Basílica de São Bento - vale a pena conferir no domingo, às 10h, sua missa com canto gregoriano.&lt;/li&gt;
-  &lt;li&gt;Centro Cultural do Banco do Brasil - sempre recebe exposições incríveis. Além disso, a arquitetura do Centro Cultural do Banco do Brasil é interessante, trazendo traços da cultura européia.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Aproveite o seu passeio descobrindo cores na conhecida &lt;em&gt;cidade cinza&lt;/em&gt;, a deslumbrante capital paulista.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 05 Jan 2016 00:00:00 -0200</pubDate>
-        <link>http://gpechim.github.io/internet.org/sp/transporte-alternativo/como-explorar-o-centro-de-sao-paulo-a-pe</link>
-        <guid isPermaLink="true">http://gpechim.github.io/internet.org/sp/transporte-alternativo/como-explorar-o-centro-de-sao-paulo-a-pe</guid>
-        
-        <category>br-sp</category>
-        
-        
-        <category>transporte-alternativo</category>
         
       </item>
     

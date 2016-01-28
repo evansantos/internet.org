@@ -1,10 +1,8 @@
 ---
 layout:     post
 permalink:  /sp/transporte-publico/como-andar-de-onibus-em-sao-paulo
-
 title:      Como andar de ônibus em São Paulo
-date:       2016-01-10
-
+date:       2015-01-21
 categories: [transporte-publico]
 tag:        [br-sp]
 ---

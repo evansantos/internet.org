@@ -1,10 +1,8 @@
 ---
 layout:     post
 permalink:  /sp/lazer/ciclofaixa-na-cidade-de-sao-paulo
-
 title:      Ciclofaixa na Cidade de São Paulo
 date:       2016-01-22
-
 categories: [lazer]
 tag:        [br-sp]
 ---

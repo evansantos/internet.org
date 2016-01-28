@@ -1,10 +1,8 @@
 ---
 layout:     post
 permalink:  /br/transporte-publico/vai-para-o-rio-confira-aqui-os-transportes-cariocas
-
 title:      Vai para o Rio? Confira aqui os transportes cariocas
-date:       2016-01-10
-
+date:       2015-01-21
 categories: [transporte-publico]
 tag:        [br-rj]
 ---

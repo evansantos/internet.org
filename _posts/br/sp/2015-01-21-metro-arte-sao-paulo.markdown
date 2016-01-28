@@ -1,10 +1,8 @@
 ---
 layout:     post
 permalink:  /sp/transporte-publico/embarque-no-metro-e-descubra-um-mundo-de-atracoes
-
 title:      Embarque no Metrô e descubra um mundo de atrações
-date:       2016-01-10
-
+date:       2015-01-21
 categories: [transporte-publico]
 tag:        [br-sp]
 ---

@@ -1,10 +1,8 @@
 ---
 layout:     post
 permalink:  /br/transporte-alternativo/nao-tem-bike-conheca-o-bikerio
-
 title:      Não tem bike? Conheça o BikeRio
-date:       2016-01-05
-
+date:       2015-08-08
 categories: [transporte-alternativo]
 tag:        [br-rj]
 ---

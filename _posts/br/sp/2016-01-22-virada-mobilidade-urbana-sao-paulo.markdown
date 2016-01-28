@@ -1,10 +1,8 @@
 ---
 layout:     post
 permalink:  /sp/lazer/conheca-a-virada-da-mobilidade-urbana-na-capital-paulista
-
 title:      Conheça a Virada da Mobilidade Urbana na Capital Paulista
 date:       2016-01-22
-
 categories: [lazer]
 tag:        [br-sp]
 ---
