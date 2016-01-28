@@ -6,10 +6,9 @@ tag: [language]
 ---
 
 <div class="">
-{% for page in site.pages %}
-  {% if page.tag contains 'citybr' %}
-  <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-  {% endif %}
-{% endfor %}
-
+  {% for page in site.pages %}
+    {% if page.tag contains 'br-city' %}
+      <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+    {% endif %}
+  {% endfor %}
 </div>

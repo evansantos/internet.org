@@ -1,0 +1,51 @@
+---
+layout:     post
+permalink:  /br/:categories/:title
+
+title:      Não tem bike? Conheça o BikeRio
+date:       2016-01-05
+
+categories: [transporte-alternativo]
+tag:        [br-rj]
+---
+
+## Não tem bike? Conheça o BikeRio.
+
+Uma ótima opção para passear pelo Rio de Janeiro é a bicicleta. 
+
+![alt text][image1]
+
+### BikeRio ♻ 
+Para melhorar a mobilidade urbana carioca, a Prefeitura do Rio de Janeiro em parceria com o sistema SAMBA desenvolveu o [BikeRio], que disponibiliza bicicletas para os cidadãos e turistas do Rio de Janeiro. 
+
+O BikeRio conta com inúmeras estações no Rio de Janeiro, as quais os usuários cadastrados podem retirar uma bicicleta, percorrer seu trajeto e, assim, devolvê-la em qualquer outra estação. Ou seja, o BikeRio te permite alugar uma bicicleta temporariamente, sem ter a preocupação de devolvê-la no mesmo local. 
+![alt][image2]
+
+Hoje, o BikeRio já possibilitou **mais de 7 milhões de viagens e evitou a emissão de mais de 3000 toneladas de carbono.** Para se tornar um usuário do BikeRio, basta seguir os passos abaixo: 
+
+####Passe Diário - custo de R$5,00 para 24h de uso. 
+O passe diário é uma ótima opção para quem vai visitar o Rio de Janeiro por um curto período de tempo. Para realizar se tornar um usuário, basta seguir os passos a seguir: 
+
+ - Ligue do seu telefone celular para o número **4003-6054.**
+ - Realize o seu cadastro. 
+ - Procure a estação BikeRio mais próxima.  
+ - Retire a bicicleta desejada. 
+
+####Passe Mensal - custo de R$10,00 válido por 30 dias. 
+O passe mensal é uma opção vantajosa para quem pretende alugar a bicicleta por mais de um dia. Para realizar o seu cadastro, siga os passos abaixo: 
+
+ - Acesse o site [BikeRio] e **clique na opção "cadastre-se".**
+ - Clique no Menu "comprar passe", leia as instruções de uso, confirme seu passe mensal e informe os dados do seu cartão de crédito.
+ - Veja no mapa do site a localização das estações de aluguel e dirija-se a qualquer uma delas para retirar bicicletas, usando o telefone celular informado no cadastro.
+ 
+*Pronto! Agora confira abaixo algumas fotos do BikeRIo ;).*
+ 
+
+
+[BikeRio]:      http://www.mobilicidade.com.br/bikerio.asp
+
+
+
+
+[image1]:      https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bike_Rio_11_2012_4455.jpg/640px-Bike_Rio_11_2012_4455.jpg
+[image2]: https://upload.wikimedia.org/wikipedia/commons/b/b3/Bike_Rio_01_2013_5427.JPG

@@ -1,14 +1,17 @@
 ---
-layout: post
-title:  "Post 3 - os aplicativos que vão te ajudar a conhecer São Paulo"
-date:   2016-01-22
-categories:
-- lazer
-permalink: /br/sao-paulo/lazer/post-3/aplicativos-para-conhecer-sp
+layout:     post
+permalink:  /sp/:categories/:title
+
+title:      Os aplicativos que vão te ajudar a conhecer São Paulo
+date:       2016-01-22
+
+categories: [lazer]
+tag:        [br-sp]
 ---
 
-## Post 3 - Os aplicativos que vão te ajudar a conhecer São Paulo 
-	São Paulo é uma cidade incrível para ser descoberta. Cada ponto tem seu charme. Mas, para que você se sinta parte dessa cidade é preciso um pouco de informação e dicas que não vão te deixar na mão. 
+## Os aplicativos que vão te ajudar a conhecer São Paulo 
+
+São Paulo é uma cidade incrível para ser descoberta. Cada ponto tem seu charme. Mas, para que você se sinta parte dessa cidade é preciso um pouco de informação e dicas que não vão te deixar na mão. 
 ![alt text][image1] 
 
 Hoje existem aplicativos que podem te ajudar a conhecer São Paulo. Por isso, a Easy Taxi preparou algumas sugestões de aplicativos que vão te ajudar a conhecer a cidade grande. 
