@@ -177,10 +177,19 @@ body {
         margin: 0;
         font-weight: 400;
       }
+      
+      p {
+       &.text-center {
+         text-align: center;
+       } 
+      }
+      }
 
       img {
 
         width: 160px;
+        display: block;
+	      margin: 0 auto;
 
         &.float-left{
           float: left;
